@@ -1,0 +1,99 @@
+image: node:10
+
+variables:
+  npm_config_cache: "$CI_PROJECT_DIR/.npm"
+  CYPRESS_CACHE_FOLDER: "$CI_PROJECT_DIR/cache/Cypress"
+
+cache:
+    key: "${CI_PROJECT_ID}_${CI_COMMIT_SHA}"
+    untracked: false
+    paths:
+        - "node_modules/"
+        - ".npm/"
+        - "cache/Cypress"
+             
+stages:
+  - build
+  - analysis
+  - tests
+  - report
+  - deploy
+
+before_script:
+  - npm install --progress=false --no-shrinkwrap
+
+### Build
+
+build:
+  stage: build
+  script:
+    - npm run build
+  artifacts:
+    expire_in: 1 week
+    paths:
+      - dist
+
+### Analysis
+
+lint:
+  stage: analysis
+  script:
+    - npm run lint
+
+### Tests
+
+unit_tests:
+  stage: tests
+  script:
+    - npm run test
+
+e2e:
+  image: cypress/base:10
+  stage: tests
+  script:
+    - npm run cypress:verify
+    - npm run test:e2e:ci
+  artifacts:
+    expire_in: 1 week
+    when: on_failure
+    paths:
+      - test/e2e/screenshots/
+      - test/e2e/videos/
+
+### Report
+
+sonar_scanner_cli:
+  stage: report
+  image: divante/sonar-scanner:latest
+  variables:
+    SONAR_SERVER_URL: 'http://sonarqube-1.divante.pl:9000'
+    TARGET_BRANCH: develop
+    FILES_SOURCES: src
+  except:
+    - master
+    - /^release.*$/
+  before_script:
+    - ''
+  script:
+    - if [ "$CI_COMMIT_REF_NAME" = "develop" ]; then TARGET_BRANCH=master; fi;
+    # - ./scripts/ci/sonar_scanner.sh
+    - echo "TODO"
+
+### Deploy
+.deploy:
+  stage: deploy
+  script: echo "deployt o ${ENV}"
+
+deploy_to_test:
+  extends: .deploy
+  variables:
+    ENV: "test"
+  only:
+    - develop
+
+deploy_to_prod:
+  extends: .deploy
+  variables:
+    ENV: "prod"
+  only:
+    - master
