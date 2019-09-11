@@ -13,8 +13,8 @@
 	- [Testing](#testing)
 	    - [Unit Tests](#unit-tests)
 	    - [End to End](#end-to-end)
-	- [Contributing](#contributing)
 	- [Deploy](#deploy)
+	- [Contributing](#contributing)
 	- [Standards & Code Quality](#standards--code-quality)
 	- [About Authors](#about-authors)
 
