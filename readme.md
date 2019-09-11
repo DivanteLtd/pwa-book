@@ -1,7 +1,7 @@
 # Divante.com PWA eBook
 
-[![pipeline status](https://gitlab.divante.pl/snippety-zaglady/divante.com/pwa-ebook/badges/develop/pipeline.svg)](https://gitlab.divante.pl/snippety-zaglady/divante.com/pwa-ebook/commits/develop)
-[![coverage report](https://gitlab.divante.pl/snippety-zaglady/divante.com/pwa-ebook/badges/develop/coverage.svg)](https://gitlab.divante.pl/snippety-zaglady/divante.com/pwa-ebook/commits/develop)
+[![pipeline status](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/badges/develop/pipeline.svg)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook)
+[![coverage report](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/badges/develop/coverage.svg)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook)
 
 > Divante.com PWA eBook Application
 
