@@ -15,6 +15,13 @@ STAGES = {
         "hosts": ["192.168.10.10"],
         "user": "vagrant",
         "dir": "/home/vagrant/code/divante.com/pwa-ebook"
+    },
+    "test": {
+        "name": "Test",
+        "hosts": ["test-lin-6.divante.pl"],
+        "port": "60022",
+        "user": "divanteco",
+        "dir": "/home/www/divanteco/www/pwa-ebook"
     }
 }
 
