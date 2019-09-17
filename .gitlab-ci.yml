@@ -14,8 +14,6 @@ cache:
              
 stages:
   - build
-  - analysis
-  - tests
   - report
   - deploy
 
@@ -27,38 +25,11 @@ before_script:
 build:
   stage: build
   script:
-    - npm run build
+    - npm run docs:build
   artifacts:
     expire_in: 1 week
     paths:
       - dist
-
-### Analysis
-
-lint:
-  stage: analysis
-  script:
-    - npm run lint
-
-### Tests
-
-unit_tests:
-  stage: tests
-  script:
-    - npm run test
-
-e2e:
-  image: cypress/base:10
-  stage: tests
-  script:
-    - npm run cypress:verify
-    - npm run test:e2e:ci
-  artifacts:
-    expire_in: 1 week
-    when: on_failure
-    paths:
-      - test/e2e/screenshots/
-      - test/e2e/videos/
 
 ### Report
 
