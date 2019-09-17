@@ -8,14 +8,7 @@
 **Table of Contents**
 - [Divante.com PWA eBook](#divante.com-pwa-ebook)
 	- [Installing/Getting started](#installinggetting-started)
-	- [Analysis](#analysis)
-	    - [Lint](#lint)
-	- [Testing](#testing)
-	    - [Unit Tests](#unit-tests)
-	    - [End to End](#end-to-end)
 	- [Deploy](#deploy)
-	- [Contributing](#contributing)
-	- [Standards & Code Quality](#standards--code-quality)
 	- [About Authors](#about-authors)
 
 ## Installing/Getting started
@@ -26,32 +19,20 @@ npm install
 
 ### Compiles and hot-reloads for development
 ``` bash
-npm run serve
+npm run docs:serve
+```
+lub
+``` bash
+yarn docs:serve
 ```
 
 ### Compiles and minifies for production
 ```bash
-npm run build
+npm run docs:build
 ```
-
-## Analysis
-### Lint
+lub
 ```bash
-npm run lint
-```
-
-## Testing
-### Unit Tests
-```bash
-npm run test
-npm run test:coverage
-```
-
-### End to End
-```bash
-npm run test:e2e
-npm run test:e2e:open
-npm run test:e2e:ci
+yarn docs:build
 ```
 
 ## Deploy
@@ -74,13 +55,6 @@ Arguments:
 ```bash
 fab dev deploy:branch=develop
 ```
-
-## Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-## Standards & Code Quality
-This module respects all Pimcore5 code quality rules and our own PHPCS and PHPMD rulesets.
 
 ## About Authors
 ![Divante-logo](http://divante.co/logo-HG.png "Divante")
