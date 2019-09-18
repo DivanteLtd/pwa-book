@@ -14,7 +14,6 @@ cache:
              
 stages:
   - build
-  - report
   - deploy
 
 before_script:
@@ -31,40 +30,26 @@ build:
     paths:
       - dist
 
-### Report
-
-sonar_scanner_cli:
-  stage: report
-  image: divante/sonar-scanner:latest
-  variables:
-    SONAR_SERVER_URL: 'http://sonarqube-1.divante.pl:9000'
-    TARGET_BRANCH: develop
-    FILES_SOURCES: src
-  except:
-    - master
-    - /^release.*$/
-  before_script:
-    - ''
-  script:
-    - if [ "$CI_COMMIT_REF_NAME" = "develop" ]; then TARGET_BRANCH=master; fi;
-    # - ./scripts/ci/sonar_scanner.sh
-    - echo "TODO"
-
 ### Deploy
 .deploy:
   stage: deploy
-  script: echo "deployt o ${ENV}"
+  image: python:3.6.8
+  before_script:
+    - 'pip install -r requirements.txt'
+  script:
+    - fab ${ENV} deploy
 
 deploy_to_test:
   extends: .deploy
   variables:
     ENV: "test"
+    BRANCH: "develop"
   only:
     - develop
 
-deploy_to_prod:
-  extends: .deploy
-  variables:
-    ENV: "prod"
-  only:
-    - master
+# deploy_to_prod:
+#   extends: .deploy
+#   variables:
+#     ENV: "prod"
+#   only:
+#     - master
