@@ -21,27 +21,20 @@ before_script:
 
 ### Build
 
-# build:
-#   stage: build
-#   script:
-#     - npm run docs:build
-#   artifacts:
-#     expire_in: 1 week
-#     paths:
-#       - dist
+build:
+  stage: build
+  script:
+    - npm run docs:build
+  artifacts:
+    expire_in: 1 hour
+    paths:
+      - docs/.vuepress/dist
 
 ### Deploy
 .deploy:
   stage: deploy
   image: python:3.6.8
   before_script:
-    - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client git -y )'
-    - eval $(ssh-agent -s)
-    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-    - mkdir -p ~/.ssh
-    - chmod 700 ~/.ssh
-    - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
-    - chmod 644 ~/.ssh/known_hosts
     - 'pip install -r scripts/deploy/requirements.txt'
   script:
     - cd scripts/deploy && fab ${ENV} deploy
