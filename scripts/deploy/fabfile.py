@@ -37,7 +37,7 @@ def test():
 def deploy():
     """ Start the deployment """
     require("stage", provided_by=(test,prod,))
-    print(colors.green("Start deploying ") + colors.yellow(branch) + colors.green(" in ") + colors.red(env.name))
+    print(colors.green("Start deploying in ") + colors.red(env.name))
 
     copy_chapters()
 
