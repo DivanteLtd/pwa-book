@@ -13,7 +13,7 @@
 
 ## Installing/Getting started
 ```bash 
-git clone ssh://git@gitlab.divante.pl:60022/snippety-zaglady/divante.com/pwa-ebook.git && \
+git clone ssh://git@gitlab.divante.pl:60022/snippety-zaglady/projects/divante.com/pwa-ebook.git && \
 npm install
 ```
 
