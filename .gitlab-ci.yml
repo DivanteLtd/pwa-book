@@ -13,7 +13,7 @@ cache:
         - "cache/Cypress"
              
 stages:
-  - build
+  # - build
   - deploy
 
 before_script:
@@ -21,14 +21,14 @@ before_script:
 
 ### Build
 
-build:
-  stage: build
-  script:
-    - npm run docs:build
-  artifacts:
-    expire_in: 1 week
-    paths:
-      - dist
+# build:
+#   stage: build
+#   script:
+#     - npm run docs:build
+#   artifacts:
+#     expire_in: 1 week
+#     paths:
+#       - dist
 
 ### Deploy
 .deploy:

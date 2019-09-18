@@ -44,6 +44,10 @@ def deploy(branch="develop"):
     require("stage", provided_by=(test,prod,))
     print(colors.green("Start deploying ") + colors.yellow(branch) + colors.green(" in ") + colors.red(env.name))
 
+
+    with cd(env.dir + "/pwa-ebook"):
+        run("ls -la")
+
     update_project(branch)
     copy_chapters()
 
