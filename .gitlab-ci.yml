@@ -14,7 +14,7 @@ cache:
              
 stages:
   - build
-  - deploy
+#  - deploy
 
 before_script:
   - npm install --progress=false --no-shrinkwrap
@@ -37,7 +37,8 @@ build:
   before_script:
     - 'pip install -r scripts/deploy/requirements.txt'
   script:
-    - cd scripts/deploy && fab ${ENV} deploy
+    - cd docs/.vuepress/dist && ls -la
+#    - cd scripts/deploy && fab ${ENV} deploy
 
 deploy_to_test:
   extends: .deploy
