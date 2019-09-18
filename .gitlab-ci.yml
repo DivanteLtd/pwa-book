@@ -37,8 +37,7 @@ build:
   before_script:
     - 'pip install -r scripts/deploy/requirements.txt'
   script:
-    - cd docs/.vuepress/dist && ls -la
-#    - cd scripts/deploy && fab ${ENV} deploy
+    - cd scripts/deploy && fab ${ENV} deploy
 
 deploy_to_test:
   extends: .deploy
