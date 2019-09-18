@@ -10,23 +10,17 @@ CURRENT_DIR="current"
 REPOSITORY="ssh://git@gitlab.divante.pl:60022/snippety-zaglady/projects/divante.com/pwa-ebook.git"
 
 STAGES = {
-    "dev": {
-        "name": "Development",
-        "hosts": ["192.168.10.10"],
-        "user": "vagrant",
-        "dir": "/home/vagrant/code/divante.com/pwa-ebook"
-    },
     "test": {
         "name": "Test",
         "hosts": ["test-lin-6.divante.pl"],
         "port": "60022",
         "user": "divanteco",
-        "dir": "/home/www/divanteco/www/pwa-ebook"
+        "dir": "/home/www/divanteco/www/pwabook"
     }
 }
 
 
-def stage_set(stage_name="dev"):
+def stage_set(stage_name="test"):
     env.stage = stage_name
     for option, value in STAGES[env.stage].items():
         setattr(env, option, value)
@@ -45,53 +39,30 @@ def test():
 
 
 @task
-def dev():
-    """ Setup development environment """
-    stage_set("dev")
-
-
-@task
 def deploy(branch="develop"):
     """ Start the deployment """
-    require("stage", provided_by=(dev,test,prod,))
+    require("stage", provided_by=(test,prod,))
     print(colors.green("Start deploying ") + colors.yellow(branch) + colors.green(" in ") + colors.red(env.name))
 
-    now = datetime.now()
-    version = now.strftime("%Y%m%d%H%M%S")
-    print(colors.blue("Creating new version: ") + colors.green(version))
-
-    clone_project(version)
-    build(version)
-    create_symlink(version)
-    clean_versions()
+    update_project(branch)
+    copy_chapters()
 
     print(colors.green("Done!"))
 
 
-def clone_project(version):
-    """ Clonning project """
-    print(colors.blue("Clonning project"))
+def update_project(branch):
+    """ Update project """
+    print(colors.blue("Updating project"))
 
-    with cd(env.dir + "/" + RELEASES_DIR):
-        run("git clone " + REPOSITORY + " " + version)
-
-
-def build(version):
-    """ Build application """
-    print(colors.blue("Buildind application"))
-    # ....
+    with cd(env.dir + "/pwa-ebook"):
+        run("git pull origin " + branch)
 
 
-def create_symlink(version):
-    """ Create symlink """
-    print(colors.blue("Creating symlink"))
+def copy_chapters():
+    """ Copy chapters directory """
+    print(colors.blue("copying new chapters"))
 
-    run("ln -s " + env.dir + "/" + RELEASES_DIR + "/" + version + " " + env.dir + "/" + CURRENT_DIR)
-
-
-def clean_versions():
-    """ Create old release directories """
-    print(colors.blue("Cleaning old versions"))
-
-    with cd(env.dir + "/" + RELEASES_DIR):
-        run("rm -rf `ls -t | awk 'NR>5'`")
+    chapter_dir = env.dir + "/chapter";
+    run("rm -rf " + chapter_dir)
+    run("mkdir " + chapter_dir)
+    run ("cp -R " + env.dir + "/pwa-ebook/docs/.vuepress/dist/. " + chapter_dir)
