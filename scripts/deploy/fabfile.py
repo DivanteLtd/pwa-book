@@ -26,7 +26,6 @@ def stage_set(stage_name="test"):
         setattr(env, option, value)
 
 
-
 @task
 def prod():
     """ Setup production environment """
@@ -70,4 +69,4 @@ def copy_chapters():
     chapter_dir = env.dir + "/chapter";
     run("rm -rf " + chapter_dir)
     run("mkdir " + chapter_dir)
-    put("docs/.vuepress/dist", chapter_dir)
+    put("../../docs/.vuepress/dist", chapter_dir)
