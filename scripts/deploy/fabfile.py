@@ -69,4 +69,4 @@ def copy_chapters():
     chapter_dir = env.dir + "/chapter";
     run("rm -rf " + chapter_dir)
     run("mkdir " + chapter_dir)
-    put("../../docs/.vuepress/dist", chapter_dir)
+    put("../../docs/.vuepress/dist/.", chapter_dir)
