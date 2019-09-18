@@ -1,5 +1,7 @@
 # Divante.com PWA eBook
 
+CLEAN ME!!
+
 [![pipeline status](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/badges/develop/pipeline.svg)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook)
 [![coverage report](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/badges/develop/coverage.svg)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook)
 
