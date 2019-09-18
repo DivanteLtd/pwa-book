@@ -3,7 +3,7 @@ module.exports = {
     description: 'PWA Book on vuepress',
     base: '/pwabook/chapter/',
     themeConfig: {
-        logo: '/chapter/assets/logo.png',
+        logo: '/assets/logo.png',
         sidebar: [
             ['/', 'Home'],
             ['/test', 'Test page']
