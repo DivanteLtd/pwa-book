@@ -11,6 +11,13 @@ STAGES = {
         "port": "60022",
         "user": "divanteco",
         "dir": "/home/www/divanteco/www/pwabook"
+    },
+    "prod": {
+        "name": "Test",
+        "hosts": ["divante-web.divante.pl"],
+        "port": "60022",
+        "user": "divanteco",
+        "dir": "/home/www/divanteco/www/pwabook"
     }
 }
 
@@ -29,7 +36,7 @@ def prod():
 
 @task
 def test():
-    """ Setup production environment """
+    """ Setup test environment """
     stage_set("test")
 
 

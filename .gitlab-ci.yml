@@ -47,9 +47,9 @@ deploy_to_test:
   only:
     - develop
 
-# deploy_to_prod:
-#   extends: .deploy
-#   variables:
-#     ENV: "prod"
-#   only:
-#     - master
+deploy_to_prod:
+  extends: .deploy
+  variables:
+    ENV: "prod"
+  only:
+    - master
