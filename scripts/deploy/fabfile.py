@@ -4,11 +4,6 @@ from fabric.contrib.files import exists
 from fabric.operations import _prefix_commands, _prefix_env_vars, require
 from datetime import datetime
 
-RELEASES_DIR="releases"
-CURRENT_DIR="current"
-
-REPOSITORY="ssh://git@gitlab.divante.pl:60022/snippety-zaglady/projects/divante.com/pwa-ebook.git"
-
 STAGES = {
     "test": {
         "name": "Test",
@@ -39,32 +34,19 @@ def test():
 
 
 @task
-def deploy(branch="develop"):
+def deploy():
     """ Start the deployment """
     require("stage", provided_by=(test,prod,))
     print(colors.green("Start deploying ") + colors.yellow(branch) + colors.green(" in ") + colors.red(env.name))
 
-
-    with cd(env.dir + "/pwa-ebook"):
-        run("ls -la")
-
-    update_project(branch)
     copy_chapters()
 
     print(colors.green("Done!"))
 
 
-def update_project(branch):
-    """ Update project """
-    print(colors.blue("Updating project"))
-
-    with cd(env.dir + "/pwa-ebook"):
-        run("git pull origin " + branch)
-
-
 def copy_chapters():
     """ Copy chapters directory """
-    print(colors.blue("copying new chapters"))
+    print(colors.blue("Copying new chapters"))
 
     chapter_dir = env.dir + "/chapter";
     run("rm -rf " + chapter_dir)
