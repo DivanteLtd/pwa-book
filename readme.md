@@ -19,18 +19,18 @@ npm install
 
 ### Compiles and hot-reloads for development
 ``` bash
-npm run docs:serve
+npm run docs:dev
 ```
-lub
+or
 ``` bash
-yarn docs:serve
+yarn docs:dev
 ```
 
 ### Compiles and minifies for production
 ```bash
 npm run docs:build
 ```
-lub
+or
 ```bash
 yarn docs:build
 ```
