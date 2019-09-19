@@ -6,7 +6,7 @@ module.exports = {
         logo: '/assets/logo.png',
         sidebar: [
             ['/', 'Home'],
-            ['/test', 'Test page']
+            ['/test', 'Test page'],
 			['/test2', 'Test2 page']
         ]
     }
