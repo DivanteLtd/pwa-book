@@ -1,60 +1,34 @@
-# H1 IT WORKS! Maybe Chater 1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+#**Progressive Web Apps, introduced by Google, eagerly approved by Microsoft and reluctantly adopted by Apple, are gaining massive popularity among global leaders of online technologies. Companies such as Pinterest, Aliexpress, Trivago, OLX and Forbes, which have already field-tested the abilities of PWA technology to boost user engagement, proved that it is the best answer to the challenges of the mobile world.**
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+------------ 
+**["Sign up for updates on The PWA Book"](https://divante.com/pwa-book#form)**
+------------ 
+#What are Progressive Web Apps?
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+**A Progressive Web App is a type of web application which can be used as a web page and mobile app on any given device. PWAs are created by fulfilling the majority of requirements listed in Google's checklist, after which a Progressive Web Application is fast, reliable and engaging.**
 
-Combined emphasis with **asterisks and _underscores_**.
+The general idea of Progressive Web Apps is quite easy to display. They are apps written in web technologies (JavaScript, CSS, HTML) that look and behave just like regular web pages. They are visible in Search Engine Page Results and linkable, but offer similar functionalities to native mobile apps: they work offline, can send push notifications and use device hardware the same way as native apps. 
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+PWAs seem to be a modern fusion between the mobile and desktop worlds but - since the term doesn't suggest any particular implementation - it may be challenging to craft a dictionary definition of them. And Google, the godfather of PWA technology, doesn't help.
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+[Google's](https://developers.google.com/web/progressive-web-apps/) official introduction says:
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+Progressive Web Apps are **user experiences** that have the reach of the web, and are:
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+- [Reliable](https://developers.google.com/web/progressive-web-apps/#reliable) - Load instantly and never show the downasaur, even in uncertain network conditions.
+- [Fast](https://developers.google.com/web/progressive-web-apps/#fast) - Respond quickly to user interactions with silky smooth animations and no janky scrolling.
+- [Engaging](https://developers.google.com/web/progressive-web-apps/#engaging) - Feel like a natural app on the device, with immersive user experience.
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+This new level of quality allows Progressive Web Apps to earn a place on the user's home screen. 
 
-[I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+#How to understand the term PWA
+According to Google, the PWA standard is an approach focused on the user experience, but the rest of its definition intensifies confusion. When is a website fast and engaging enough to call it a PWA? Is it crucial to install it on the user's home screen? Or maybe it is all about the immersive full-screen experience? In short: what exactly makes a web app, a Progressive Web App?
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Google, probably deliberately, doesn't provide a clear definition of Progressive Web Apps. The idea of an open web seems to conflict with a strong standard defined by a central player on the market. And the giant can't allow for the suspicion that PWAs - introduced by the team from Mountain View - force web owners to use Google’s own standards, technologies or implementation methods. Pointing out a general direction or - better put - a general philosophy to building online touchpoints is a safer choice than forcing a specific method of making them.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+Therefore, Google introduced the PWA standard and delivered Lighthouse – an open-source tool that enables developers to audit a web app for PWA features. 
 
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: https://www.divante.com
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+------------ 
+Lighthouse, an open-source, automated tool for improving the quality of your Progressive Web Apps, eliminates much of the manual testing that was previously required. You can [check your eCommerce site with the Lighthouse](https://divante.com/blog/checking-up-ecommerce-with-the-lighthouse-tool/) tool in terms of PWA compliance, and also performance, accessibility and best practices.
+------------ 
