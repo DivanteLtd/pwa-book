@@ -25,7 +25,7 @@ before_script:
 lint_md:
   stage: analysis
   script:
-    - npm run lint:md
+    - npm run lint:md -c mdlint.conf.json
 
 ### Build
 
