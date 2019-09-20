@@ -4,7 +4,5 @@
   "MD007": { "indent": 4 },
   "no-hard-tabs": false,
   "whitespace": false,
-  "line-length" : {
-      "line-length": 1000
-  }
+  "line-length" : false
 }
