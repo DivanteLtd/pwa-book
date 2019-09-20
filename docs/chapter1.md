@@ -2,10 +2,9 @@
 
 **Progressive Web Apps, introduced by Google, eagerly approved by Microsoft and reluctantly adopted by Apple, are gaining massive popularity among global leaders of online technologies. Companies such as Pinterest, Aliexpress, Trivago, OLX and Forbes, which have already field-tested the abilities of PWA technology to boost user engagement, proved that it is the best answer to the challenges of the mobile world.**
 
-|  |
-|:--:|
-| **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)** |  
-|  |
+------
+**[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)**   
+------
  
 **Table of content**
 
@@ -35,7 +34,7 @@ PWAs seem to be a modern fusion between the mobile and desktop worlds but - sinc
     
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
 
-image![](https://lh4.googleusercontent.com/A45kkYMQG7-lvwHvTmhQIlqWEevMElBAv0Kk04gxuwbcPH2f8hZIQ0_TjLotE3SHgpMMY9rj_JAVZ7bPGfIbfR3jo9mUyCS7-AFT06xvH4X-Dh6Eq3hTlv7nI1WF7rTrqy6B7XI3)
+![](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_1.2_-_PWA_is_Fast_Realiable_Engaging.png)
 
 ## How to understand the term PWA
 
@@ -61,9 +60,7 @@ The general idea is that a Progressive Web App meets the expectations of mobile 
 
 Site speed is crucial for every online business, no matter if it is a store or a news site. Online - primarily mobile - consumers are very impatient. Half of mobile visits are abandoned if the loading of the page takes more than three seconds.
 
-image
-
-![](https://lh5.googleusercontent.com/-4lTxdJ2zcds83rQV7OZ6_RNwQwjRqxJpky7XCazXsSOGMKgCBDFOnTZfO67ZM1q_SlZb6Dki3kfT8egCaTNdOxtA-9wSjvckEQv3MpwgOxS2pEeI-mLZyiVEel4W5SShPKUxrfe)
+![](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_1_-_Google_quotation_on_PWA.png)
 
 ------------
 
@@ -71,14 +68,11 @@ image
 
 ------------
 
-image
-
-![](https://lh4.googleusercontent.com/GJN8Bn5_TV7y6HQvMV4v_AVPrvDRO-gdQbkVRnTo3anVNauqUIBuNX3FDPnI7egkP5toIxWPNxi-KzsQuqpseMdXQ9e35Vdamh7jf5BhKPBp7fNURw-tj-Gq3SRVImsNZU46A-oQ)
-
-source: *The State of Online Retail Performance 2017. Holiday Retrospective.*
-
  Conversion rates are directly related to page load time, which forces brands to optimize their web sites for speed and efficiency. PWAs guarantee both. Once loaded, they react to users' behavior smoothly, without the need to be reloaded.
 
+![](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_1_Impact_of_page_load_times_on_conversion_rates_for_desktop__mobile__and_tablet.png)
+
+source: *The State of Online Retail Performance 2017. Holiday Retrospective.*
 ### PWAs are reliable
 
 The reliability of Progressive Web Apps is based on their independence from an internet connection. A PWA can work offline, providing a stable experience no matter the quality of the connection. It allows users to stay engaged as long as they want; they can continue browsing a product catalog, or even add items to a cart, without an internet connection.
