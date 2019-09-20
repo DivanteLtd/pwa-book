@@ -1,4 +1,4 @@
-*Chapter 2: THE HISTORY OF PWA DEVELOPMENT
+# Chapter 2: THE HISTORY OF PWA DEVELOPMENT
 
 **The term Progressive Web App was created in 2015 by Google, but the idea of putting mobile user experiences in the center of interest is not new. Besides, even Google's current definition is slightly different from the first one. To fully understand the whole concept of the PWA standard, we need to look into its roots. However, they are more in-depth than you may suspect.**
 | |
