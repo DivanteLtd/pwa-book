@@ -7,7 +7,8 @@ module.exports = {
         sidebar: [
             ['/', 'Home'],
             ['/test', 'Test page'],
-			['/test2', 'Test2 page']
+			['/test2', 'Test2 page'],
+			['/chapter1','Chapter 1']
         ]
     }
 }
