@@ -82,6 +82,7 @@ Site speed is crucial for every online business, no matter if it is a store or a
 ![](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_1_Impact_of_page_load_times_on_conversion_rates_for_desktop__mobile__and_tablet.png)
 
 source: *The State of Online Retail Performance 2017. Holiday Retrospective.*
+
 ### PWAs are reliable
 
 The reliability of Progressive Web Apps is based on their independence from an internet connection. A PWA can work offline, providing a stable experience no matter the quality of the connection. It allows users to stay engaged as long as they want; they can continue browsing a product catalog, or even add items to a cart, without an internet connection.
