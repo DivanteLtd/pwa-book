@@ -130,4 +130,4 @@ Learn more about the history of the PWA standard, and its evolution in the mobil
 Go to another chapter and learn more about [the history of the PWA](https://docs.google.com/document/d/1Giqe14cao4G1zrKurNc4Zgn6_Sx1Lmg-dVx7xN0BsNQ/edit#) standard.
 
 ---
-Go back to [The PWA Book ](https://divante.com/pwa-book) main page >
+Go back to [The PWA Book ](https://divante.com/pwa-book) main page 
