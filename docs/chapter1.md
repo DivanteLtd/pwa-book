@@ -1,4 +1,4 @@
-Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
+*Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
 
 **Progressive Web Apps, introduced by Google, eagerly approved by Microsoft and reluctantly adopted by Apple, are gaining massive popularity among global leaders of online technologies. Companies such as Pinterest, Aliexpress, Trivago, OLX and Forbes, which have already field-tested the abilities of PWA technology to boost user engagement, proved that it is the best answer to the challenges of the mobile world.**
 
@@ -17,7 +17,7 @@ Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
   - PWAs are engaging
 - Key advantages of Progressive Web Apps
 
-## What are Progressive Web Apps?
+## What are Progressive Web Apps
 
 **A Progressive Web App is a type of web application which can be used as a web page and mobile app on any given device. PWAs are created by fulfilling the majority of requirements listed in Google's checklist, after which a Progressive Web Application is fast, reliable and engaging.**
 
@@ -115,7 +115,7 @@ This approach is more comfortable than covering all marketing channels with sepa
 
 Jump to the chapter 4 to learn more about [the benefits of PWAs for users, businesses and developers](https://docs.google.com/document/d/11olf2KP7ycavrgXC1PRLdCM1sui-HDs9TRkVwlvUmOQ/edit#heading=h.77zgluaj6tla).
 
-## Methods of incorporating a PWA solution?
+## Methods of incorporating a PWA solution
 
 A PWA, as a "progressive" standard, doesn't require the implementation of every single feature from the checklist (as mentioned, 75% is enough). The aim is to push developers to make better apps for their users, and so there is no one, universal way to turn a site into a PWA. **Therefore, Progressive Web Apps can be developed independently, from scratch or by using ready-to-use solutions.** Frameworks like [Vue Storefront](http://vuestorefront.io), PWA Studio, or others can significantly reduce the time and costs of PWA implementation.
 
