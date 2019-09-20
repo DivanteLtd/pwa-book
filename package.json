@@ -7,7 +7,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "lint:md": "markdownlint docs"
+    "lint:md": "markdownlint docs -c mdlint.conf.json"
   },
   "dependencies": {
     "vuepress": "^1.0.3"
