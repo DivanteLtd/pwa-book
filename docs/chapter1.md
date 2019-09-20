@@ -1,7 +1,4 @@
-
 Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
-
-  
 
 **Progressive Web Apps, introduced by Google, eagerly approved by Microsoft and reluctantly adopted by Apple, are gaining massive popularity among global leaders of online technologies. Companies such as Pinterest, Aliexpress, Trivago, OLX and Forbes, which have already field-tested the abilities of PWA technology to boost user engagement, proved that it is the best answer to the challenges of the mobile world.**
 
@@ -15,9 +12,9 @@ Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
 - What are Progressive Web Apps?
 - How to understand the term PWA
 - Characteristics of Progressive Web Apps
--- PWAs are fast
--- PWAs are reliable
--- PWAs are engaging
+- - PWAs are fast
+- - PWAs are reliable
+- - PWAs are engaging
 - Key advantages of Progressive Web Apps
 
 ## What are Progressive Web Apps?
