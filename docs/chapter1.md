@@ -3,8 +3,12 @@
 **Progressive Web Apps, introduced by Google, eagerly approved by Microsoft and reluctantly adopted by Apple, are gaining massive popularity among global leaders of online technologies. Companies such as Pinterest, Aliexpress, Trivago, OLX and Forbes, which have already field-tested the abilities of PWA technology to boost user engagement, proved that it is the best answer to the challenges of the mobile world.**
 
 ------
+
 **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)**   
+
 ------
+ 
+ 
  
 **Table of content**
 
@@ -15,6 +19,9 @@
   - PWAs are reliable
   - PWAs are engaging
 - Key advantages of Progressive Web Apps
+ 
+
+
 
 ## What are Progressive Web Apps
 
@@ -64,7 +71,9 @@ Site speed is crucial for every online business, no matter if it is a store or a
 
 ------------
 
+
 **["The State of Online Retail Performance"](https://www.thinkwithgoogle.com/data/mobile-page-speed-conversion-data/)  published by Google, every second of delay causes the loss of a client. Losses can be up to 20% in all possible conversions.**
+
 
 ------------
 
