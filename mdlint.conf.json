@@ -2,7 +2,7 @@
   "default": true,
   "no-hard-tabs": false,
   "whitespace": false,
-  "hr-style": false
+  "hr-style": false,
   "no-alt-text": false,
   "line-length" : {
       "line_length": 1000
