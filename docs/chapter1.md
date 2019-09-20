@@ -12,9 +12,9 @@ Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
 - What are Progressive Web Apps?
 - How to understand the term PWA
 - Characteristics of Progressive Web Apps
- - PWAs are fast
- - PWAs are reliable
- - PWAs are engaging
+  - PWAs are fast
+  - PWAs are reliable
+  - PWAs are engaging
 - Key advantages of Progressive Web Apps
 
 ## What are Progressive Web Apps?
