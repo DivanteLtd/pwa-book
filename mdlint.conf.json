@@ -4,6 +4,8 @@
   "whitespace": false,
   "hr-style": false,
   "no-alt-text": false,
+  "no-emphasis-as-heading": false,
+  "single-trailing-newline": false,
   "line-length" : {
       "line_length": 1000
   }
