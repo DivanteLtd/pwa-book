@@ -4,7 +4,7 @@
 
 ------
 
-**[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)**   
+📨 **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)**   
 
 ------
  
