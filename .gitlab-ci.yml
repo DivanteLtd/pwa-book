@@ -13,11 +13,19 @@ cache:
         - "cache/Cypress"
              
 stages:
+  - analysis
   - build
   - deploy
 
 before_script:
   - npm install --progress=false --no-shrinkwrap
+
+### Analysis
+
+lint_md:
+  stage: analysis
+  script:
+    - npm run lint:md
 
 ### Build
 

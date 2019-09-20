@@ -6,9 +6,13 @@
   "private": true,
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "lint:md": "markdownlint docs"
   },
   "dependencies": {
     "vuepress": "^1.0.3"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.18.0"
   }
 }
