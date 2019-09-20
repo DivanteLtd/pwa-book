@@ -21,7 +21,7 @@ Progressive Web Apps are **user experiences** that have the reach of the web, an
 
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen. 
 
-![alt text](...)
+image
 
 # How to understand the term PWA
 According to Google, the PWA standard is an approach focused on the user experience, but the rest of its definition intensifies confusion. When is a website fast and engaging enough to call it a PWA? Is it crucial to install it on the user's home screen? Or maybe it is all about the immersive full-screen experience? In short: what exactly makes a web app, a Progressive Web App?
@@ -40,7 +40,7 @@ The general idea is that a Progressive Web App meets the expectations of mobile 
 
 Site speed is crucial for every online business, no matter if it is a store or a news site. Online - primarily mobile - consumers are very impatient. Half of mobile visits are abandoned if the loading of the page takes more than three seconds. 
 
-![alt text](...)
+image
 
 ------------ 
 ["The State of Online Retail Performance"](https://www.thinkwithgoogle.com/data/mobile-page-speed-conversion-data/) published by Google, every second of delay causes the loss of a client. Losses can be up to 20% in all possible conversions.
