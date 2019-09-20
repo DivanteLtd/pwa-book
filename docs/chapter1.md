@@ -4,7 +4,7 @@
 
 ------
 
-📨 **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)**   
+⭐️ **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)**   
 
 ------
  
@@ -51,7 +51,7 @@ Google, probably deliberately, doesn't provide a clear definition of Progressive
 
 Therefore, Google introduced the PWA standard and delivered Lighthouse – an open-source tool that enables developers to audit a web app for PWA features.
 
----
+------------
  
 **Lighthouse, an open-source, automated tool for improving the quality of your Progressive Web Apps, eliminates much of the manual testing that was previously required.**
 
