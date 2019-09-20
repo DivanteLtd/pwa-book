@@ -4,7 +4,7 @@
 
 ------
 
-⭐️ **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)**   
+**[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)** ⭐️   
 
 ------
  
@@ -41,7 +41,7 @@ PWAs seem to be a modern fusion between the mobile and desktop worlds but - sinc
     
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
 
-![](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_1.2_-_PWA_is_Fast_Realiable_Engaging.png)
+![PWA is Fast Realiable and Engaging](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_1.2_-_PWA_is_Fast_Realiable_Engaging.png)
 
 ## How to understand the term PWA
 
@@ -53,9 +53,7 @@ Therefore, Google introduced the PWA standard and delivered Lighthouse – an op
 
 ------------
  
-**Lighthouse, an open-source, automated tool for improving the quality of your Progressive Web Apps, eliminates much of the manual testing that was previously required.**
-
-You can [check your eCommerce site with the Lighthouse](https://divante.com/blog/checking-up-ecommerce-with-the-lighthouse-tool/)  tool in terms of PWA compliance, and also performance, accessibility and best practices.
+**Lighthouse, an open-source, automated tool for improving the quality of your Progressive Web Apps, eliminates much of the manual testing that was previously required.** You can [check your eCommerce site with the Lighthouse](https://divante.com/blog/checking-up-ecommerce-with-the-lighthouse-tool/)  tool in terms of PWA compliance, and also performance, accessibility and best practices.
 
 ------------
 
@@ -67,7 +65,7 @@ The general idea is that a Progressive Web App meets the expectations of mobile 
 
 Site speed is crucial for every online business, no matter if it is a store or a news site. Online - primarily mobile - consumers are very impatient. Half of mobile visits are abandoned if the loading of the page takes more than three seconds.
 
-![](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_1_-_Google_quotation_on_PWA.png)
+![Google on PWA](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_1_-_Google_quotation_on_PWA.png)
 
 ------------
 
@@ -77,9 +75,9 @@ Site speed is crucial for every online business, no matter if it is a store or a
 
 ------------
 
- Conversion rates are directly related to page load time, which forces brands to optimize their web sites for speed and efficiency. PWAs guarantee both. Once loaded, they react to users' behavior smoothly, without the need to be reloaded.
+Conversion rates are directly related to page load time, which forces brands to optimize their web sites for speed and efficiency. PWAs guarantee both. Once loaded, they react to users' behavior smoothly, without the need to be reloaded.
 
-![](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_1_Impact_of_page_load_times_on_conversion_rates_for_desktop__mobile__and_tablet.png)
+![Impact of page load times on conversion rates for desktop mobile and tablet](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_1_Impact_of_page_load_times_on_conversion_rates_for_desktop__mobile__and_tablet.png)
 
 source: *The State of Online Retail Performance 2017. Holiday Retrospective.*
 
