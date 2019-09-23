@@ -43,7 +43,7 @@ build:
   stage: deploy
   image: python:3.6.8
   before_script:
-    - 'pip install -r scripts/deploy/requirements.txt'
+    - 'pip3 install -r scripts/deploy/requirements.txt'
   script:
     - cd scripts/deploy && fab ${ENV} deploy
 
