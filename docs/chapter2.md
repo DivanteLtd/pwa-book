@@ -74,10 +74,9 @@ source: [*Wikipedia*](https://en.wikipedia.org/wiki/Universal_Windows_Platform)
 
 Of course, the introduction of UWP didn't succeed, which makes the choice to push PWA technology more pragmatic, but the collaboration between these kinds of forces still looks unusual. And yet, they managed to forge a partnership in developing PWA standards. Jeff Burtoft, Principal Program Manager at Microsoft, put it best when he said:
 
-Google led the way with Progressive Web Apps, and after a long process, we decided that we needed to fully support it. ![Jeff Burtoft portrait](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.3.png)
+Google led the way with Progressive Web Apps, and after a long process, we decided that we needed to fully support it. 
 
-  
-  
+![Jeff Burtoft portrait](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.3.png)
 
 At first, PWAs started to work on Chrome OS, Android, and Windows. Now, developers can also publish them on [Microsoft Store](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/microsoft-store), which may seem to be harking back to the old “native app” approach a bit.
 
