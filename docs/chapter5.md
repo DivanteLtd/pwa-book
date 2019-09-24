@@ -1,6 +1,8 @@
 # Chapter 5: LOW MOBILE CONVERSION RATES SOLVED WITH PWA TECHNOLOGY
 
-Chapter in progress. Come back soon :)
+
+**Chapter in progress. Come back soon :)**
+
 ------
 
 **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)** ⭐️   
