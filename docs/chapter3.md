@@ -255,17 +255,12 @@ The PWA takes 23% less time to become interactive, resulting in 80% lower bounce
   
   
   
-  
+-----  
 
-more: [PWA Stats](https://www.pwastats.com/)
+For more examples visit [PWA Stats](https://www.pwastats.com/) or download the [TOP 30 Progressive Web Apps Benchmark Study](https://go.divante.co/top-30-progressive-web-apps/)** 📕
 
-  
- ---
+-----
 
- **[Download the TOP 30 Progressive Web Apps Benchmark Study](https://go.divante.co/top-30-progressive-web-apps/)** 📕
-
----  
-  
 
 Progressive Web Apps are gaining popularity, and will definitely be explored throughout the coming years by many more small businesses, also thanks to new open-source initiatives like [Magento's PWA Studio](https://divante.com/blog/tag/magento-pwa) or [Vue Storefront](https://www.vuestorefront.io/). These ready-to-use solutions that make PWA implementation more comfortable and accessible, are already available on the market.
 
