@@ -190,67 +190,37 @@ Although the major players from all kinds of areas - online [marketplaces](https
 
 Most of them seemed to be in good shape when it comes to SEO and best web development practices (e.g. HTTPS usage, avoiding application cache). However, they are hardly prepared for the mobile-first revolution. Performance and PWA standards are not their strongest suit. But the harbingers of change are already visible in the latest moves of the leaders.
 
-|---| 
 ![Tinder logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.7.png)
 
-Tinder cut load times from 11.91 seconds to 4.69 seconds with their new PWA, which is 90% smaller than their native Android app. User engagement is up across the board on the PWA.
+↗️ Tinder cut load times from 11.91 seconds to 4.69 seconds with their new PWA, which is 90% smaller than their native Android app. User engagement is up across the board on the PWA.
 
-  
-  
-  
-  
 ![Trivago logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.8.png)
 
-Trivago saw an increase of 150% from people who added its PWA to the home screen. Increased engagement led to a 97% increase in clicks on its offers. Users who go offline while browsing can continue to access the site, and 67% continue to use the website when they come back online.
-
-  
-
+↗️ Trivago saw an increase of 150% from people who added its PWA to the home screen. Increased engagement led to a 97% increase in clicks on its offers. Users who go offline while browsing can continue to access the site, and 67% continue to use the website when they come back online.
   
 ![Pinterest logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.9.png)  
 
-Pinterest rebuilt its mobile site as a PWA and core engagements increase by 60%. They also saw a 44% increase in user-generated ad revenue and time spent on the site has increased by 40%.
+↗️ Pinterest rebuilt its mobile site as a PWA and core engagements increase by 60%. They also saw a 44% increase in user-generated ad revenue and time spent on the site has increased by 40%.
 
-  
-  
-  
 ![Forbes logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.10.png)
 
-Forbes' PWA test saw a 2x increase in average user session length, 6x completion rate, and 2% more impressions. Loads in 0.8s down from between 3 to 12s.
+↗️ Forbes' PWA test saw a 2x increase in average user session length, 6x completion rate, and 2% more impressions. Loads in 0.8s down from between 3 to 12s.
 
-  
-  
- 
 ![Google logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.11.png)
 
-
-Google found that PWA installs’ banners convert 5-6x more often than native install banners. 
-
-  
-  
-  
-  
+↗️ Google found that PWA installs’ banners convert 5-6x more often than native install banners. 
   
 ![Alibaba logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.12.png)  
-  
 
-Alibaba increased conversions on the mobile web by 76%, with 14% more monthly active users on iOS and 30% more on Android.
+↗️ Alibaba increased conversions on the mobile web by 76%, with 14% more monthly active users on iOS and 30% more on Android.
 
-  
-  
-  
 ![Aliexpress logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.14.png)
 
-AliExpress improved conversion rate for new users by 104% across all browsers, with 2x more pages visited and 74% more time spent per session.
+↗️ AliExpress improved conversion rate for new users by 104% across all browsers, with 2x more pages visited and 74% more time spent per session.
 
-  
-  
 ![OLX logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.13.png)  
 
-OLX experiences 250% more re-engagement using push notifications and a 146% higher click-through rate on ads. 
-
-  
-
-The PWA takes 23% less time to become interactive, resulting in 80% lower bounce rates.
+↗️ OLX experiences 250% more re-engagement using push notifications and a 146% higher click-through rate on ads. The PWA takes 23% less time to become interactive, resulting in 80% lower bounce rates.
 
   
   
