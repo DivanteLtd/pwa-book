@@ -31,7 +31,7 @@ So developers, we think we’ve got a very sweet story for you. You can begin bu
 
 Back then, there was no mention of the App Store, but it changed rapidly. The SDK for the iPhone was announced in October 2007, and in July 2008 Apple presented App Store. Looking back, it is pretty clear why.
 
-![Worlwide Gross App revenue in 2018](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_2.1.png)
+![Worlwide Gross App revenue in 2018](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.1.png)
 
 source: *[Sensortower](https://sensortower.com/blog/app-revenue-and-downloads-2018)*
 
@@ -59,7 +59,7 @@ They called this new class of apps “Progressive Web Apps”. A year later, dur
 
 After their official debut, PWAs were perceived as The Next Big Thing in the tech world but - just like it was with the "Year of Mobile" - nothing changed overnight, even when two key players made an alliance to accelerate PWA adoption.  
 
-![Growth of progressive web apps in Google Trends](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_2.xx.PNG)
+![Growth of progressive web apps in Google Trends](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.xx.PNG)
 
 Google and Microsoft have been rivals in the technological arms race for decades, but when it came to the PWA standard, they decided to work side by side. Microsoft's decision seems especially worth noting, considering the Giant from Redmond was able to take a step back and sacrifice its idea of a Universal Windows Platform to make room for PWAs - the concept introduced by Google.
 
@@ -74,7 +74,7 @@ source: [*Wikipedia*](https://en.wikipedia.org/wiki/Universal_Windows_Platform)
 
 Of course, the introduction of UWP didn't succeed, which makes the choice to push PWA technology more pragmatic, but the collaboration between these kinds of forces still looks unusual. And yet, they managed to forge a partnership in developing PWA standards. Jeff Burtoft, Principal Program Manager at Microsoft, put it best when he said:
 
-Google led the way with Progressive Web Apps, and after a long process, we decided that we needed to fully support it. ![Jeff Burtoft portrait](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/blob/develop/docs/.vuepress/public/assets/Chapter_2.3.png)
+Google led the way with Progressive Web Apps, and after a long process, we decided that we needed to fully support it. ![Jeff Burtoft portrait](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.3.png)
 
   
   
