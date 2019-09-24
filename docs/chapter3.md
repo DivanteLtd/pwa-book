@@ -73,7 +73,7 @@ Source: [Export.gov](https://www.export.gov/article?id=Nigeria-E-Commerce) prepa
 
 Revelations of data misuse have not gone unnoticed, but the social media companies are somehow immune to negative publicity. Cambridge Analytica, the greatest crisis in Facebook's then 14-year history, didn't stop its growth. It came out bruised, but it is still the second most powerful force in the digital media world, after Google. At the end of 2018, it was even able to increase its monthly and daily active users by 9%.  
 
-![Number of monthly active Facebook users worldwide as of 2nd quarter 2019 (in millions). ](https://divante.com/pwabook)
+![Number of monthly active Facebook users worldwide as of 2nd quarter 2019 (in millions)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.3.png)
 
 Number of monthly active Facebook users worldwide as of 2nd quarter 2019 (in millions). [Source](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/)
 
