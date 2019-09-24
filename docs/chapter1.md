@@ -5,7 +5,7 @@
 
 ------
 
-**[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)** ⭐️   
+**[Sign up for updates on The PWA Book](https://divante.com/pwabook#form)** ⭐️   
 
 ------
  
@@ -128,7 +128,7 @@ Some business factors are, however, also worth noting. With Progressive Web Apps
 
 This approach is more comfortable than covering all marketing channels with separate online services, although it comes with some design and business challenges.
 
-Jump to the chapter 4 to learn more about [the benefits of PWAs for users, businesses and developers](https://docs.google.com/document/d/11olf2KP7ycavrgXC1PRLdCM1sui-HDs9TRkVwlvUmOQ/edit#heading=h.77zgluaj6tla).
+Jump to the chapter 4 to learn more about [the benefits of PWAs for users, businesses and developers](https://divante.com/pwabook).
 
 
 ## Methods of incorporating a PWA solution"?"
@@ -144,9 +144,9 @@ The level of difficulty increases with the complexity of the project. For eComme
 
 Learn more about the history of the PWA standard, and its evolution in the mobile-first world. 
 
-Go to another chapter and learn more about [the history of the PWA](https://docs.google.com/document/d/1Giqe14cao4G1zrKurNc4Zgn6_Sx1Lmg-dVx7xN0BsNQ/edit#) standard.
+Go to another chapter and learn more about [the history of the PWA](https://divante.com/pwabook) standard.
 
 
 ---
 
-Go back to [The PWA Book ](https://divante.com/pwa-book) main page >
+Go back to [The PWA Book ](https://divante.com/pwabook) main page >
