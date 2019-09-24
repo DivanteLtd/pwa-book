@@ -1,6 +1,10 @@
 # Welcome in The PWA Book
 
 
+![The PWA Book - cover] (/assets/book_1b.png)
+
+
+
 **Select the chapter or start [here](/chapter1.html).**
 
 
