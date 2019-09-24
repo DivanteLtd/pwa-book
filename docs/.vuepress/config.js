@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'PWA Book',
+    title: 'The PWA Book',
     description: 'PWA Book on vuepress',
     base: '/pwabook/chapter/',
     themeConfig: {
