@@ -1,7 +1,7 @@
 # Welcome in The PWA Book
 
 
-![The PWA Book - cover](/assets/book_1b.png)
+![The PWA Book - cover](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/book_1b.png)
 
 
 
