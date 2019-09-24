@@ -18,7 +18,7 @@
 
   
 
-## What is the mobile-first approach?
+## What is the mobile-first approach"?"
 
 Mobile data traffic will grow at a CAGR of 46 percent from 2017 to 2022, according to [the Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white-paper-c11-738429.html). Since, this trend didn't start yesterday, the [mobile-first approach](https://divante.com/blog/adding-mobile-first-solutions-ecommerce/) to design online services should be a no-brainer. And yet, it is not. Even though [Eric Schmidt in 2010 put forward that designers should follow the “mobile-first” rule](https://www.telegraph.co.uk/technology/google/7256103/Google-now-a-mobile-first-company.html), many web owners still create websites for desktop and then force them to run on the devices we really love to use.
 
@@ -130,7 +130,7 @@ Google was already prepared for this shift, and back in February, announced its 
 
 Although it was just the beginning, the "[Mobile-First Index](https://divante.com/blog/google-rolls-out-mobile-first-indexing-endorses-pwas/)" was supposed to be the next Google push to force website owners to treat the mobile channel as seriously as it deserved.
 
->  “To make our results more useful, we’ve begun experiments to make our index mobile-first. Although our search index will continue to be a single index of websites and apps, our algorithms will eventually primarily use the mobile version of a site’s content to rank pages from that site, to understand structured data, and to show snippets from those pages in our results. Of course, while our index will be built from mobile documents, we're going to continue to build a great search experience for all users, whether they come from mobile or desktop devices. (...) <br>
+>  “To make our results more useful, we’ve begun experiments to make our index mobile-first. Although our search index will continue to be a single index of websites and apps, our algorithms will eventually primarily use the mobile version of a site’s content to rank pages from that site, to understand structured data, and to show snippets from those pages in our results. Of course, while our index will be built from mobile documents, we're going to continue to build a great search experience for all users, whether they come from mobile or desktop devices. (...) 
 Starting today, we will begin to use information from indexed apps as a factor in ranking for signed-in users who have the app installed. As a result, we may now surface content from indexed apps more prominently in search. “ -   [Google Webmaster Central Blog.](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html)
     
 With [the mobile-first update](https://divante.com/blog/google-rolls-out-mobile-first-indexing-endorses-pwas/), Google announced that it will primarily index mobile content and use it to decide how to rank its results. Any additional content on desktop websites will be given minor importance and will get less traffic compared to a mobile site.
@@ -174,12 +174,13 @@ Progressive Web Apps, ultra-fast, engaging and discoverable via internet browser
 They allow businesses to engage users without worrying about connection quality or breaking through the clutter in app stores.
 
   
+---
 
-<CTA - Download Mobile Conversion Rate Optimization Guide>
+ **[Read Mobile Conversion Rate Optimization Guide](https://divante.com/blog/optimizing-mobile-commerce-conversion-rates-cro-mcommerce/)** 📘
 
-albo
+---
 
-READ ALSO: Optimizing mobile-commerce conversion rates (CRO for mCommerce) https://divante.com/blog/optimizing-mobile-commerce-conversion-rates-cro-mcommerce/
+
 
 ## Companies that use Progressive Web Apps
 
