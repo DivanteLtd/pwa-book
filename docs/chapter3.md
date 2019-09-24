@@ -42,7 +42,7 @@ The online giants, like Microsoft, Apple, and above all, Google, can't afford to
 
  ---
 
- **[Download state of mobile first ecommerce report]([https://go.divante.co/state-of-mobile-first-commerce/](https://go.divante.co/state-of-mobile-first-commerce/))** 🔍
+ **[Download the State of Mobile First eCommerce report]([https://go.divante.co/state-of-mobile-first-commerce/](https://go.divante.co/state-of-mobile-first-commerce/))** 🔍
 
 ---
 
@@ -54,7 +54,7 @@ The future is mobile. It will be even more visible if we bravely decide to leave
 
   
 
-![Mobile internet traffic as percentage of total web traffic in February 2019, by region](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.2.png)
+![Mobile internet traffic as percentage of total web traffic in February 2019 by region](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.2.png)
 
 source: [Statista](https://www.statista.com/statistics/306528/share-of-mobile-internet-traffic-in-global-regions/)
 
