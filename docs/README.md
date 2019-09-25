@@ -5,7 +5,7 @@
 
 
 
-**Select the chapter or start [here](/chapter1.html).**
+**Select the chapter or start [here](/pwabook/chapter/chapter1.html).**
 
 
 ------
