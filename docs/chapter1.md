@@ -39,7 +39,7 @@ PWAs seem to be a modern fusion between the mobile and desktop worlds but - sinc
     
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
 
-image![PWA is fast, reliable and engaging](/assets/Chapter_1.2.png)
+image![PWA is fast, reliable and engaging](/pwabook/chapter/assets/Chapter_1.2.png)
 
 ## How to understand the term PWA
 
