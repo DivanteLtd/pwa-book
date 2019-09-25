@@ -39,7 +39,7 @@ PWAs seem to be a modern fusion between the mobile and desktop worlds but - sinc
     
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
 
-image![PWA is fast, reliable and engaging](/pwabook/chapter/assets/Chapter_1.2.png)
+![PWA is fast, reliable and engaging](/pwabook/chapter/assets/Chapter_1.2.png)
 
 ## How to understand the term PWA
 
@@ -68,9 +68,9 @@ The general idea is that a Progressive Web App meets the expectations of mobile 
 
 Site speed is crucial for every online business, no matter if it is a store or a news site. Online - primarily mobile - consumers are very impatient. Half of mobile visits are abandoned if the loading of the page takes more than three seconds.
 
-image
 
-![For every second delay in mobile page load, conversion can fall by up to 20% - Google](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_1.png)
+
+![For every second delay in mobile page load, conversion can fall by up to 20% - Google](/pwabook/chapter/assets/Chapter_1.png)
 
 
 ------------
@@ -82,9 +82,9 @@ image
 ------------
 
 
-image
 
-![Impact of page load times on conversion rates for desktop and mobile and tablet](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_1_Impact_of_page_load_times_on_conversion_rates_for_desktop__mobile__and_tablet.png)
+
+![Impact of page load times on conversion rates for desktop and mobile and tablet](/pwabook/chapter/assets/Chapter_1_Impact_of_page_load_times_on_conversion_rates_for_desktop__mobile__and_tablet.png)
 
 source: *The State of Online Retail Performance 2017. Holiday Retrospective.*
 
@@ -144,7 +144,7 @@ The level of difficulty increases with the complexity of the project. For eComme
 
 Learn more about the history of the PWA standard, and its evolution in the mobile-first world. 
 
-Go to another chapter and learn more about [the history of the PWA](https://divante.com/pwabook) standard.
+Go to another chapter and learn more about [the history of the PWA](/pwabook/chapter/chapter2.html) standard.
 
 
 ---
