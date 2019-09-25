@@ -24,7 +24,7 @@ Mobile data traffic will grow at a CAGR of 46 percent from 2017 to 2022, accordi
 
 Americans will spend more time on their smartphones (and tablets) than watching traditional TV. The eMarketer's forecast estimates adults will spend an average of 3 hours, 43 minutes daily on mobile devices, not counting calls, and 3 hours, 35 minutes watching TV.
 
-![TV and mobile devices: average time spent in the US by eMarketer](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.png)
+![TV and mobile devices: average time spent in the US by eMarketer](/pwabook/chapter/assets/Chapter_3.png)
 
 source: [eMarketer](https://www.emarketer.com/content/average-us-time-spent-with-mobile-in-2019-has-increased)
 
@@ -38,7 +38,7 @@ source: [Statista](https://www.statista.com/chart/13577/time-spent-on-online-ret
  ----
 
 The online giants, like Microsoft, Apple, and above all, Google, can't afford to neglect this fact. Their dominant position on the market depends on the ability to win users' attention, and it's no surprise they are trying to do it at all cost. Progressive Web Apps, now supported by all three of them, are growing into one of the most important means to achieve this.
-  ![Responsive web design vs mobile first design](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.1.png)
+  ![Responsive web design vs mobile first design](/pwabook/chapter/assets/Chapter_3.1.png)
 
  ---
 
@@ -54,7 +54,7 @@ The future is mobile. It will be even more visible if we bravely decide to leave
 
   
 
-![Mobile internet traffic as percentage of total web traffic in February 2019 by region](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.2.png)
+![Mobile internet traffic as percentage of total web traffic in February 2019 by region](/pwabook/chapter/assets/Chapter_3.2.png)
 
 source: [Statista](https://www.statista.com/statistics/306528/share-of-mobile-internet-traffic-in-global-regions/)
 
@@ -73,7 +73,7 @@ Source: [Export.gov](https://www.export.gov/article?id=Nigeria-E-Commerce) prepa
 
 Revelations of data misuse have not gone unnoticed, but the social media companies are somehow immune to negative publicity. Cambridge Analytica, the greatest crisis in Facebook's then 14-year history, didn't stop its growth. It came out bruised, but it is still the second most powerful force in the digital media world, after Google. At the end of 2018, it was even able to increase its monthly and daily active users by 9%.  
 
-![Number of monthly active Facebook users worldwide as of 2nd quarter 2019 (in millions)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.3.png)
+![Number of monthly active Facebook users worldwide as of 2nd quarter 2019 (in millions)](/pwabook/chapter/assets/Chapter_3.3.png)
 
 Number of monthly active Facebook users worldwide as of 2nd quarter 2019 (in millions). [Source](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/)
 
@@ -81,7 +81,7 @@ Number of monthly active Facebook users worldwide as of 2nd quarter 2019 (in mil
 
 According to the report "[Digital 2019](https://wearesocial.com/blog/2019/01/digital-2019-global-internet-use-accelerates)" provided by Hootsuite and We Are Social, the general number of people who use smartphones increased by 100 million in 2018, with the global total reaching more than 5.1 billion users by January 2019. This figure brings worldwide mobile penetration to 67 percent - more than two-thirds of the total global population. Already 3 256 billion of them consume content on social media using mobile devices.
 
-![Mobile-only social network users by eMarketer](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.4.png)
+![Mobile-only social network users by eMarketer](/pwabook/chapter/assets/Chapter_3.4.png)
 
 -----
 💡
@@ -102,7 +102,7 @@ The mobile channel gives new possibilities for business growth, though it also b
 
 Designing interactions is a specific part of designing a user-experience. According to the [Interaction Design Foundation](https://www.interaction-design.org/literature/article/what-is-interaction-design), the goal of interaction design is to create products that enable users to achieve their objective(s) in the best way possible. It means that interaction designers take care of every element that a user might read, click, swipe, tap, drag, or slide. Gestures are a new way to interact with a mobile device.
 
-![Types of interaction and gestures with mobile devices](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.5.png)
+![Types of interaction and gestures with mobile devices](/pwabook/chapter/assets/Chapter_3.5.png)
 
 ### Engagement
 
@@ -137,14 +137,14 @@ With [the mobile-first update](https://divante.com/blog/google-rolls-out-mobile-
   
 This change - but not only this one, since [page speed also became an important ranking factor](https://divante.com/blog/google-pagespeed-algorithm-update-hits-hard-ecommerce-ranks/) - was very favorable for Progressive Web Apps. With Google’s mobile-first approach, and the support of Microsoft and Apple, which came right after, these ultra-fast mobile pages can become a standard mobile solution for any OS in the future and the cure for the mobile gap.
 
-![Interest of Progressive Web Apps by Google Trends](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.xx.PNG)
+![Interest of Progressive Web Apps by Google Trends](/pwabook/chapter/assets/Chapter_3.xx.PNG)
 
 ## The mobile gap
 
 Mobile usage is growing year by year; likewise, retail eCommerce sales, but these two things don't exactly relate to each other. The amount of time we spend with our smartphones does not match up with the number of transactions finalized on them. According to all the available data, mobile conversion is much lower than desktop conversion, and this discrepancy, called the mobile gap, is a growing challenge for retailers.
 
  
-![Mobile gap scheme](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.6.png)
+![Mobile gap scheme](/pwabook/chapter/assets/Chapter_3.6.png)
 
 ----
 💡
@@ -157,11 +157,11 @@ Source: [eMarketer](https://www.emarketer.com/content/mobile-time-spent-2018)
   
 Website visits by platform
 
-![website visits by platform](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/3.x2.png)
+![website visits by platform](/pwabook/chapter/assets/3.x2.png)
 
  Conversion rate by device
 
-![conversion rate by device](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/3.x1.png)
+![conversion rate by device](/pwabook/chapter/assets/3.x1.png)
 
 Source: [Monetate Ecommerce Quarterly Report, Q4 2018](https://www.monetate.com/resources/benchmarks-research?p=research)
 
@@ -190,35 +190,35 @@ Although the major players from all kinds of areas - online [marketplaces](https
 
 Most of them seemed to be in good shape when it comes to SEO and best web development practices (e.g. HTTPS usage, avoiding application cache). However, they are hardly prepared for the mobile-first revolution. Performance and PWA standards are not their strongest suit. But the harbingers of change are already visible in the latest moves of the leaders.
 
-![Tinder logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.7.png)
+![Tinder logo](/pwabook/chapter/assets/Chapter_3.7.png)
 
 ↗️ Tinder cut load times from 11.91 seconds to 4.69 seconds with their new PWA, which is 90% smaller than their native Android app. User engagement is up across the board on the PWA.
 
-![Trivago logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.8.png)
+![Trivago logo](/pwabook/chapter/assets/Chapter_3.8.png)
 
 ↗️ Trivago saw an increase of 150% from people who added its PWA to the home screen. Increased engagement led to a 97% increase in clicks on its offers. Users who go offline while browsing can continue to access the site, and 67% continue to use the website when they come back online.
   
-![Pinterest logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.9.png)  
+![Pinterest logo](/pwabook/chapter/assets/Chapter_3.9.png)  
 
 ↗️ Pinterest rebuilt its mobile site as a PWA and core engagements increase by 60%. They also saw a 44% increase in user-generated ad revenue and time spent on the site has increased by 40%.
 
-![Forbes logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.10.png)
+![Forbes logo](/pwabook/chapter/assets/Chapter_3.10.png)
 
 ↗️ Forbes' PWA test saw a 2x increase in average user session length, 6x completion rate, and 2% more impressions. Loads in 0.8s down from between 3 to 12s.
 
-![Google logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.11.png)
+![Google logo](/pwabook/chapter/assets/Chapter_3.11.png)
 
 ↗️ Google found that PWA installs’ banners convert 5-6x more often than native install banners. 
   
-![Alibaba logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.12.png)  
+![Alibaba logo](/pwabook/chapter/assets/Chapter_3.12.png)  
 
 ↗️ Alibaba increased conversions on the mobile web by 76%, with 14% more monthly active users on iOS and 30% more on Android.
 
-![Aliexpress logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.14.png)
+![Aliexpress logo](/pwabook/chapter/assets/Chapter_3.14.png)
 
 ↗️ AliExpress improved conversion rate for new users by 104% across all browsers, with 2x more pages visited and 74% more time spent per session.
 
-![OLX logo](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.13.png)  
+![OLX logo](/pwabook/chapter/assets/Chapter_3.13.png)  
 
 ↗️ OLX experiences 250% more re-engagement using push notifications and a 146% higher click-through rate on ads. The PWA takes 23% less time to become interactive, resulting in 80% lower bounce rates.
 
@@ -241,7 +241,7 @@ Progressive Web Apps are gaining popularity, and will definitely be explored thr
   
 ---
 
-Go to another chapter to learn more about the benefits [of Progressive Web Apps](https://divante.com/pwabook) for users, businesses and developers.
+Go to another chapter to learn more about the benefits [of Progressive Web Apps](/pwabook/chapter/chapter4.html) for users, businesses and developers.
 
 ---
 Go back to [The PWA Book ](https://divante.com/pwabook) main page >
