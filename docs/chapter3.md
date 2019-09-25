@@ -137,14 +137,14 @@ With [the mobile-first update](https://divante.com/blog/google-rolls-out-mobile-
   
 This change - but not only this one, since [page speed also became an important ranking factor](https://divante.com/blog/google-pagespeed-algorithm-update-hits-hard-ecommerce-ranks/) - was very favorable for Progressive Web Apps. With Google’s mobile-first approach, and the support of Microsoft and Apple, which came right after, these ultra-fast mobile pages can become a standard mobile solution for any OS in the future and the cure for the mobile gap.
 
- ![Interest of Progressive Web Apps by Google Trends](https://lh6.googleusercontent.com/DS7dNFz32RKiT_lXvKS9Ymfc-1LOlqaL3-_v-mt6aK8wqo-e2GQc14vYIQ_cNOU_bIi7sYNKb_2rSHwLnnY2aWU9hlQMnbFX0i-B9U83nLOZaAd3z_5wa9AtKaK5hjiSnSA4aVic)
+![Interest of Progressive Web Apps by Google Trends](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.xx.PNG)
 
 ## The mobile gap
 
 Mobile usage is growing year by year; likewise, retail eCommerce sales, but these two things don't exactly relate to each other. The amount of time we spend with our smartphones does not match up with the number of transactions finalized on them. According to all the available data, mobile conversion is much lower than desktop conversion, and this discrepancy, called the mobile gap, is a growing challenge for retailers.
 
  
-![Mobile gap scheme](https://lh4.googleusercontent.com/DxqB8dx9lJM6PLHLUNC_TVJnPRS9bTcS_3Y5pAyszGK92ltZbQWKb9-DSC0Eox2ti2L8vlz9yX59mfoRhrtG2ZTnaSUviiPa6OtgfBVsjMZvfoFfcHj0cIVh6AIsLW4Bzf0VLD6E)
+![Mobile gap scheme](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_3.6.png)
 
 ----
 💡
@@ -157,15 +157,15 @@ Source: [eMarketer](https://www.emarketer.com/content/mobile-time-spent-2018)
   
 Website visits by platform
 
-![website visits by platform](https://divante.com/pwabook)
+![website visits by platform](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/3.x2.png)
 
  Conversion rate by device
 
-![conversion rate by device](https://divante.com/pwabook)
+![conversion rate by device](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/3.x1.png)
 
 Source: [Monetate Ecommerce Quarterly Report, Q4 2018](https://www.monetate.com/resources/benchmarks-research?p=research)
 
- Adding [mobile-first solutions is a MUST for any eCommerce](https://divante.com/blog/adding-mobile-first-solutions-ecommerce/) company since the mobile channel drives sales and brand loyalty, probably even more than desktop. It allows brands to understand their customers deeply; to get in touch with them by providing more personalized and real-time solutions. And yet, we are still reluctant to buy directly via our smartphones.
+Adding [mobile-first solutions is a MUST for any eCommerce](https://divante.com/blog/adding-mobile-first-solutions-ecommerce/) company since the mobile channel drives sales and brand loyalty, probably even more than desktop. It allows brands to understand their customers deeply; to get in touch with them by providing more personalized and real-time solutions. And yet, we are still reluctant to buy directly via our smartphones.
 
 Of course, in the omnichannel era, every single touchpoint with a product or service should be treated as an equally important stage of the customer journey. However, every second of delay in purchase decreases the chance of making a transaction.
 
