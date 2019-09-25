@@ -1,4 +1,3 @@
-
 # Welcome in The PWA Book
 
 # Picture loaded from github (You should NOT do this on production)
@@ -9,7 +8,7 @@
 
 ![The PWA Book - cover](/pwabook/chapter/assets/book_1b.png)
 
-#Link (You should do this on production)
+# Link (You should do this on production)
 
 **Select the chapter or start [here](/pwabook/chapter/chapter1.html).**
 
