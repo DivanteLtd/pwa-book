@@ -39,11 +39,11 @@ The idea of "universal apps" was frozen for almost a decade, and that time belon
 
 As Alex Russell, Senior Staff Software Engineer at Google, pointed out in his text “[Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)”, published on Infrequently.org in July 2015:
 
-> "It happens on the web from time to time that powerful technologies come to exist without the benefit of marketing departments or slick packaging. They linger and grow at the peripheries, becoming old-hat to a tiny group while remaining nearly invisible to everyone else. Until someone names them."
+> "It happens on the web from time to time that powerful technologies come to exist without the benefit of marketing departments or slick packaging. They linger and grow at the peripheries, becoming old-hat to a tiny group while remaining nearly invisible to everyone else. Until someone names them." - Alex Russell, Senior Staff Software Engineer at Google
     
 And as Frances Berriman and Alex Russell, the authors of term PWA, wrote in the foreword of “[Progressive Web Apps, a book by Jason Grigsby”:](https://abookapart.com/products/progressive-web-apps)
 
-> "The idea of native apps always seemed like a regression. Walled gardens with terrible search, dubious security, and the endless tax of updates - it felt so 1990s."
+> "The idea of native apps always seemed like a regression. Walled gardens with terrible search, dubious security, and the endless tax of updates - it felt so 1990s." - Frances Berriman and Alex Russell
 
 In 2015, Berriman and Russell observed a new class of websites that were providing a better user experience than traditional web applications. All of these applications were characterized by one common feature: they gave up the browser's tabs to live on their own while maintaining their ubiquity and linkability.
 
