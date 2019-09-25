@@ -23,7 +23,7 @@ All these new technologies were based on some shared principles including linkab
 
 The idea of a PWA wasn't invented either by Google or by Apple, but it was Steve Jobs who first presented the concept in front of the world, during the iPhone introduction in 2007. At the time, it seemed natural that external apps would help to increase the popularity of that device, and Jobs wanted developers to build apps using standard web technologies.
 
-![Steve Jobs portrait](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.png)
+![Steve Jobs portrait](/pwabook/chapter/assets/Chapter_2.png)
 
 >“(...) you can write amazing Web 2.0 and Ajax apps that look exactly and behave exactly like apps on the iPhone. And these apps can integrate perfectly with iPhone services. And guess what?    
 There’s no SDK that you need! You’ve got everything you need if you know how to write apps using the most modern web standards to write amazing apps for the iPhone today.    
@@ -31,7 +31,7 @@ So developers, we think we’ve got a very sweet story for you. You can begin bu
 
 Back then, there was no mention of the App Store, but it changed rapidly. The SDK for the iPhone was announced in October 2007, and in July 2008 Apple presented App Store. Looking back, it is pretty clear why.
 
-![Worlwide Gross App revenue in 2018](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.1.png)
+![Worlwide Gross App revenue in 2018](/pwabook/chapter/assets/Chapter_2.1.png)
 
 source: *[Sensortower](https://sensortower.com/blog/app-revenue-and-downloads-2018)*
 
@@ -59,7 +59,7 @@ They called this new class of apps “Progressive Web Apps”. A year later, dur
 
 After their official debut, PWAs were perceived as The Next Big Thing in the tech world but - just like it was with the "Year of Mobile" - nothing changed overnight, even when two key players made an alliance to accelerate PWA adoption.  
 
-![Growth of progressive web apps in Google Trends](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.xx.PNG)
+![Growth of progressive web apps in Google Trends](/pwabook/chapter/assets/Chapter_2.xx.PNG)
 
 Google and Microsoft have been rivals in the technological arms race for decades, but when it came to the PWA standard, they decided to work side by side. Microsoft's decision seems especially worth noting, considering the Giant from Redmond was able to take a step back and sacrifice its idea of a Universal Windows Platform to make room for PWAs - the concept introduced by Google.
 
@@ -76,7 +76,7 @@ Of course, the introduction of UWP didn't succeed, which makes the choice to pus
 
 Google led the way with Progressive Web Apps, and after a long process, we decided that we needed to fully support it. 
 
-![Jeff Burtoft portrait](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.3.png)
+![Jeff Burtoft portrait](/pwabook/chapter/assets/Chapter_2.3.png)
 
 At first, PWAs started to work on Chrome OS, Android, and Windows. Now, developers can also publish them on [Microsoft Store](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/microsoft-store), which may seem to be harking back to the old “native app” approach a bit.
 
@@ -87,13 +87,13 @@ What about Apple? It didn't rush. The support for key PWA technology called “S
   
   
 
-![Milestones in the PWA development](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/raw/develop/docs/.vuepress/public/assets/Chapter_2.2.png)
+![Milestones in the PWA development](/pwabook/chapter/assets/Chapter_2.2.png)
 
 ---
 
 How will the future of Progressive Web Apps look? Jump to another chapter to learn more about PWAs in the mobile first world.
 
-Go to another chapter to learn more about [PWAs in the mobile-first world >](https://divante.com/pwabook)
+Go to another chapter to learn more about [PWAs in the mobile-first world >](/pwabook/chapter/chapter3.html)
 
 ---
 Go back to [The PWA Book ](https://divante.com/pwabook) main page >
