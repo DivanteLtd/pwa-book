@@ -3,7 +3,7 @@
 ![The PWA Book - cover](/pwabook/chapter/assets/book_1b.png)
 
 
-**Select the chapter or start [here](/pwabook/chapter/chapter1.html).**
+**Select the chapter or start [here](/pwabook/chapter/01-Introduction-to-PWA-technology.html).**
 
 
 ------
