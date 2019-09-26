@@ -1,7 +1,7 @@
 # Chapter 6: COSTS AND SOLUTIONS OF PWA IN ECOMMERCE
 
 
-**Chapter in progress. Come back soon :)**
+**Coming soon :)**
 
 
 
