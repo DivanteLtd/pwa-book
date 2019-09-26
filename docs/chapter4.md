@@ -53,7 +53,7 @@ The problem is, as we mentioned before, that customers, while they might appreci
   
 ![Number of mobile app downloads worldwide from 2016 to 2018 (in billions)](/pwabook/chapter/assets/Chapter_4.2.png)
 
-[(Source)](https://www.statista.com/statistics/271644/worldwide-free-and-paid-mobile-app-store-downloads/)
+[Source](https://www.statista.com/statistics/271644/worldwide-free-and-paid-mobile-app-store-downloads/)
 
   
 
