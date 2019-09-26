@@ -17,7 +17,6 @@ module.exports = {
         ],
         nav: [
          { text: 'Follow us:'},
-                  { ![twitter](/pwabook/chapter/assets/logo_TT.png), link: 'https://twitter.com/divanteltd' },
          { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
        ]
     }
