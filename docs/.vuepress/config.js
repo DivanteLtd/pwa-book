@@ -3,6 +3,7 @@ module.exports = {
     description: 'PWA Book on vuepress',
     base: '/pwabook/chapter/',
     themeConfig: {
+        bookTitle: 'The PWA Book by Divante',
         logo: '/assets/logo_light_blue.png',
         
         sidebar: [
