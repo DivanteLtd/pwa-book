@@ -18,6 +18,8 @@ module.exports = {
         nav: [
          { text: 'Follow us:'},
          { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
+         { text: 'Linkedin', link: 'https://www.linkedin.com/company/divante' },
+         { text: 'Facebook', link: 'http://facebook.com/divante.co' },
        ]
     }
 }
