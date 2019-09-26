@@ -16,7 +16,8 @@ module.exports = {
 			['/07-PWA-success-stories','7: Companies that implemented PWA and won']
         ],
         nav: [
-         { text: 'Twitter', link: 'https://twitter.com/divanteltddddd' },
+            { logo: '/assets/logo_light_blue.png', link: 'https://twitter.com/divanteltd' },
+         { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
        ]
     }
 }
