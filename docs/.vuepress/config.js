@@ -16,10 +16,8 @@ module.exports = {
 			['/07-PWA-success-stories','7: Companies that implemented PWA and won']
         ],
         nav: [
-         { text: 'Follow us:'},
          { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
-         { text: 'Linkedin', link: 'https://www.linkedin.com/company/divante' },
-         { text: 'Facebook', link: 'http://facebook.com/divante.co' },
+
        ]
     }
 }
