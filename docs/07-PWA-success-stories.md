@@ -2,7 +2,7 @@
 
 
 
-**Chapter in progress. Come back soon :)**
+**Coming soon :)**
 
 
 ------
