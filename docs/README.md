@@ -1,7 +1,5 @@
 # Welcome in The PWA Book
 
-![The PWA Book - cover](/pwabook/chapter/assets/book_1b.png)
-
 
 **Select the chapter or start [here](/pwabook/chapter/01-Introduction-to-PWA-technology.html).**
 
