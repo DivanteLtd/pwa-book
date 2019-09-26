@@ -6,13 +6,13 @@ module.exports = {
         logo: '/assets/logo_light_blue.png',
         
         sidebar: [
-			['/chapter1','1: Introduction to Progressive Web Apps'],	
-			['/chapter2','2: The history of PWA development'],
-			['/chapter3','3: Progressive Web Apps in the mobile-first world'],	
-			['/chapter4','4: Benefits of Progressive Web Apps'],	
-			['/chapter5','5: Low mobile conversion rates solved with PWA technology'],
-			['/chapter6','6: Costs and solutions of PWA in eCommerce'],
-			['/chapter7','7: Companies that implemented PWA and won']
+			['/01-Introduction-to-PWA-technology','1: Introduction to Progressive Web Apps'],	
+			['/02-The-history-of-PWAs','2: The history of PWAs'],
+			['/03-PWAs-in-the-mobile-first-world','3: PWA in the mobile-first world'],	
+			['/04-Benefits-of-PWA','4: Benefits of Progressive Web Apps'],	
+			['/05-Improving-mobile-CR-with-PWAs','5: Low mobile conversion rates solved with PWA technology'],
+			['/06-PWA-solutions-and-costs','6: Costs and solutions of PWA in eCommerce'],
+			['/07-PWA-success-stories','7: Companies that implemented PWA and won']
         ],
         nav: [
          { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
