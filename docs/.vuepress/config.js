@@ -6,7 +6,8 @@ module.exports = {
         bookTitle: 'The PWA Book by Divante',
         logo: '/assets/logo_light_blue.png',
         head: [
-            { rel: 'icon', href: '/assets/favicon.png' }],
+            ['link', { rel: 'icon', href: '/assets/favicon.png' }],
+        ],
         
         sidebar: [
 			['/01-Introduction-to-PWA-technology','1: Introduction to Progressive Web Apps'],	
@@ -18,7 +19,8 @@ module.exports = {
 			['/07-PWA-success-stories','7: Companies that implemented PWA and won']
         ],
         nav: [
-         { text: 'Facebook', link: 'https://www.facebook.com/Divantecom/'},
+         { text: 'Follow us:'},
+         { logo: '/assets/logo_FB.png', link: 'https://www.facebook.com/Divantecom/'},
          { text: 'Twitter', link: 'https://twitter.com/divanteltd'},
          { text: 'Linkedin', link: 'https://www.linkedin.com/company/600853/admin/'},
 
