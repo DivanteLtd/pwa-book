@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'The PWA Book',
-    description: 'PWA Book on vuepress',
+    title: 'The PWA Book by Divante',
+    description: 'Inside The PWA Book designers and developers share their knowledge and experience of this modern technology to get you ready for building a fast, reliable and engaging user experience.',
     base: '/pwabook/chapter/',
     themeConfig: {
         bookTitle: 'The PWA Book by Divante',
