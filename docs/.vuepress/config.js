@@ -1,10 +1,12 @@
 module.exports = {
-    title: 'The PWA Book by Divante',
+    title: 'The PWA Book',
     description: 'Inside The PWA Book designers and developers share their knowledge and experience of this modern technology to get you ready for building a fast, reliable and engaging user experience.',
     base: '/pwabook/chapter/',
     themeConfig: {
         bookTitle: 'The PWA Book by Divante',
         logo: '/assets/logo_light_blue.png',
+        head: [
+   ['link', { rel: 'icon', href: '/assets/favicon.png' }],
         
         sidebar: [
 			['/01-Introduction-to-PWA-technology','1: Introduction to Progressive Web Apps'],	
@@ -16,9 +18,10 @@ module.exports = {
 			['/07-PWA-success-stories','7: Companies that implemented PWA and won']
         ],
         nav: [
-         
+         { text: 'Follow us:'},
+         { text: 'Facebook', link: 'https://www.facebook.com/Divantecom/' },
          { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
-         { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
+         { text: 'Linkedin', link: 'https://www.linkedin.com/company/600853/admin/' },
 
        ]
     }
