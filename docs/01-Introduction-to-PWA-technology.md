@@ -128,7 +128,7 @@ Some business factors are, however, also worth noting. With Progressive Web Apps
 
 This approach is more comfortable than covering all marketing channels with separate online services, although it comes with some design and business challenges.
 
-Jump to the chapter 4 to learn more about [the benefits of PWAs for users, businesses and developers](https://divante.com/pwabook).
+Jump to the chapter 4 to learn more about [the benefits of PWAs for users, businesses and developers](/04-Benefits-of-PWA.html).
 
 
 ## Methods of incorporating a PWA solution"?"
@@ -142,9 +142,9 @@ The level of difficulty increases with the complexity of the project. For eComme
 ---
 
 
-Learn more about the history of the PWA standard, its evolution in the mobile-first world, and [PWA for eCommerce](vuestorefront.io). 
+Learn more about the history of the PWA standard, its evolution in the mobile-first world, and [PWA for eCommerce](https://www.vuestorefront.io). 
 
-Go to another chapter and learn more about [the history of the PWA](/pwabook/chapter/chapter2.html) standard.
+Go to another chapter and learn more about [the history of the PWA](/02-The-history-of-PWAs.html) standard.
 
 
 ---

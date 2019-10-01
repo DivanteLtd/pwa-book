@@ -93,7 +93,7 @@ What about Apple? It didn't rush. The support for key PWA technology called “S
 
 How will the future of Progressive Web Apps look? Jump to another chapter to learn more about PWAs in the mobile first world.
 
-Go to another chapter to learn more about [PWAs in the mobile-first world >](/pwabook/chapter/chapter3.html)
+Go to another chapter to learn more about [PWAs in the mobile-first world >](/03-PWAs-in-the-mobile-first-world.html)
 
 ---
 Go back to [The PWA Book ](https://divante.com/pwabook) main page >

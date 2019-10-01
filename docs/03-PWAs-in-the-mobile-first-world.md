@@ -42,7 +42,7 @@ The online giants, like Microsoft, Apple, and above all, Google, can't afford to
 
  ---
 
- **[Download the State of Mobile First eCommerce report]([https://go.divante.co/state-of-mobile-first-commerce/](https://go.divante.co/state-of-mobile-first-commerce/))** 🔍
+ **[Download the State of Mobile First eCommerce report](https://go.divante.co/state-of-mobile-first-commerce/)** 🔍
 
 ---
 
@@ -159,9 +159,9 @@ Website visits by platform
 
 ![website visits by platform](/pwabook/chapter/assets/3.x2.png)
 
- Conversion rate by device
+ Conversion rates by device
 
-![conversion rate by device](/pwabook/chapter/assets/3.x1.png)
+![conversion rates by device](/pwabook/chapter/assets/3.x1.png)
 
 Source: [Monetate Ecommerce Quarterly Report, Q4 2018](https://www.monetate.com/resources/benchmarks-research?p=research)
 
@@ -241,7 +241,7 @@ Progressive Web Apps are gaining popularity, and will definitely be explored thr
   
 ---
 
-Go to another chapter to learn more about the benefits [of Progressive Web Apps](/pwabook/chapter/chapter4.html) for users, businesses and developers.
+Go to another chapter to learn more about the benefits [of Progressive Web Apps](/04-Benefits-of-PWA.html) for users, businesses and developers.
 
 ---
 Go back to [The PWA Book ](https://divante.com/pwabook) main page >
