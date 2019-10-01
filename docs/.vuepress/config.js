@@ -20,9 +20,9 @@ module.exports = {
         ],
         nav: [
          { text: 'Follow us:'},
-         { image: '/assets/logo_FB.png', link: 'https://www.facebook.com/Divantecom/'},
-         { text: 'Twitter', link: 'https://twitter.com/divanteltd'},
-         { text: 'Linkedin', link: 'https://www.linkedin.com/company/600853/admin/'},
+         { text: 'FB', link: 'https://www.facebook.com/Divantecom/'},
+         { text: 'TT', link: 'https://twitter.com/divanteltd'},
+         { text: 'LI', link: 'https://www.linkedin.com/company/600853/admin/'},
 
        ]
     }
