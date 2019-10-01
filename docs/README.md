@@ -7,7 +7,7 @@
 ------
 
 
-The PWA Book is an ongoing project, open to new contributors. It grows along with Progressive Web Apps. If you'd like to become an author of this book [contact us](akwiecien@divante.com)
+The PWA Book is an ongoing project, open to new contributors. It grows along with Progressive Web Apps. If you'd like to become an author of this book [contact us](mailto:akwiecien@divante.com)
 
 
 ------
