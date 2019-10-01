@@ -7,7 +7,7 @@ module.exports = {
         logo: '/assets/logo_light_blue.png',
         head: [
           ['link', { rel: 'icon', href: '/assets/favicon.png' }],
-    ],
+        ],
         
         sidebar: [
 			['/01-Introduction-to-PWA-technology','1: Introduction to Progressive Web Apps'],	
@@ -19,7 +19,6 @@ module.exports = {
 			['/07-PWA-success-stories','7: Companies that implemented PWA and won']
         ],
         nav: [
-         { text: 'Follow us:'},
          { text: 'FB', link: 'https://www.facebook.com/Divantecom/'},
          { text: 'TT', link: 'https://twitter.com/divanteltd'},
          { text: 'LI', link: 'https://www.linkedin.com/company/600853/admin/'},
