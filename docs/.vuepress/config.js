@@ -6,8 +6,8 @@ module.exports = {
         bookTitle: 'The PWA Book by Divante',
         logo: '/assets/logo_light_blue.png',
         head: [
-            ['link', { rel: 'icon', href: '/assets/favicon.png' }],
-        ],
+          ['link', { rel: 'icon', href: '/assets/favicon.png' }],
+    ],
         
         sidebar: [
 			['/01-Introduction-to-PWA-technology','1: Introduction to Progressive Web Apps'],	
