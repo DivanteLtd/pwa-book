@@ -142,7 +142,7 @@ The level of difficulty increases with the complexity of the project. For eComme
 ---
 
 
-Learn more about the history of the PWA standard, and its evolution in the mobile-first world. 
+Learn more about the history of the PWA standard, its evolution in the mobile-first world, and [PWA for eCommerce](vuestorefront.io). 
 
 Go to another chapter and learn more about [the history of the PWA](/pwabook/chapter/chapter2.html) standard.
 
