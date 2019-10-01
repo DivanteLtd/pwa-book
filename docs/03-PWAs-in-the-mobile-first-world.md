@@ -42,7 +42,7 @@ The online giants, like Microsoft, Apple, and above all, Google, can't afford to
 
  ---
 
- **[Download the State of Mobile First eCommerce report]([https://go.divante.co/state-of-mobile-first-commerce/](https://go.divante.co/state-of-mobile-first-commerce/))** 🔍
+ **[Download the State of Mobile First eCommerce report](https://go.divante.co/state-of-mobile-first-commerce/)** 🔍
 
 ---
 
@@ -159,9 +159,9 @@ Website visits by platform
 
 ![website visits by platform](/pwabook/chapter/assets/3.x2.png)
 
- Conversion rate by device
+ Conversion rates by device
 
-![conversion rate by device](/pwabook/chapter/assets/3.x1.png)
+![conversion rates by device](/pwabook/chapter/assets/3.x1.png)
 
 Source: [Monetate Ecommerce Quarterly Report, Q4 2018](https://www.monetate.com/resources/benchmarks-research?p=research)
 
