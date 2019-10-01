@@ -241,7 +241,7 @@ Progressive Web Apps are gaining popularity, and will definitely be explored thr
   
 ---
 
-Go to another chapter to learn more about the benefits [of Progressive Web Apps](/pwabook/chapter/chapter4.html) for users, businesses and developers.
+Go to another chapter to learn more about the benefits [of Progressive Web Apps](/04-Benefits-of-PWA.html) for users, businesses and developers.
 
 ---
 Go back to [The PWA Book ](https://divante.com/pwabook) main page >
