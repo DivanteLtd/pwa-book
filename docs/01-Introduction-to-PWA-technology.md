@@ -1,24 +1,27 @@
-*Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS*
-
+# Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
+ 
 
 **Progressive Web Apps, introduced by Google, eagerly approved by Microsoft and reluctantly adopted by Apple, are gaining massive popularity among global leaders of online technologies. Companies such as Pinterest, Aliexpress, Trivago, OLX and Forbes, which have already field-tested the abilities of PWA technology to boost user engagement, proved that it is the best answer to the challenges of the mobile world.**
 
-|  |
-|:--:|
-| **[Sign up for updates on The PWA Book](https://divante.com/pwa-book#form)** |  
-|  |
+------
+
+**[Sign up for updates on The PWA Book](https://divante.com/pwabook#form)** ⭐️   
+
+------
+ 
+ 
  
 **Table of content**
 
 - What are Progressive Web Apps?
 - How to understand the term PWA
 - Characteristics of Progressive Web Apps
--- PWAs are fast
--- PWAs are reliable
--- PWAs are engaging
+  - PWAs are fast
+  - PWAs are reliable
+  - PWAs are engaging
 - Key advantages of Progressive Web Apps
 
-## What are Progressive Web Apps?
+## What are Progressive Web Apps"?"
 
 **A Progressive Web App is a type of web application which can be used as a web page and mobile app on any given device. PWAs are created by fulfilling the majority of requirements listed in Google's checklist, after which a Progressive Web Application is fast, reliable and engaging.**
 
@@ -36,7 +39,7 @@ PWAs seem to be a modern fusion between the mobile and desktop worlds but - sinc
     
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
 
-image![](https://lh4.googleusercontent.com/A45kkYMQG7-lvwHvTmhQIlqWEevMElBAv0Kk04gxuwbcPH2f8hZIQ0_TjLotE3SHgpMMY9rj_JAVZ7bPGfIbfR3jo9mUyCS7-AFT06xvH4X-Dh6Eq3hTlv7nI1WF7rTrqy6B7XI3)
+![PWA is fast, reliable and engaging](/pwabook/chapter/assets/Chapter_1.2.png)
 
 ## How to understand the term PWA
 
@@ -48,9 +51,12 @@ Therefore, Google introduced the PWA standard and delivered Lighthouse – an op
 
 ---
  
+💡
+
 **Lighthouse, an open-source, automated tool for improving the quality of your Progressive Web Apps, eliminates much of the manual testing that was previously required.**
 
-You can [check your eCommerce site with the Lighthouse](https://divante.com/blog/checking-up-ecommerce-with-the-lighthouse-tool/)  tool in terms of PWA compliance, and also performance, accessibility and best practices.
+You can [check your eCommerce site with the Lighthouse](https://divante.com/blog/checking-up-ecommerce-with-the-lighthouse-tool/) tool in terms of PWA compliance, and also performance, accessibility and best practices.
+
 
 ------------
 
@@ -62,19 +68,23 @@ The general idea is that a Progressive Web App meets the expectations of mobile 
 
 Site speed is crucial for every online business, no matter if it is a store or a news site. Online - primarily mobile - consumers are very impatient. Half of mobile visits are abandoned if the loading of the page takes more than three seconds.
 
-image
 
-![](https://lh5.googleusercontent.com/-4lTxdJ2zcds83rQV7OZ6_RNwQwjRqxJpky7XCazXsSOGMKgCBDFOnTZfO67ZM1q_SlZb6Dki3kfT8egCaTNdOxtA-9wSjvckEQv3MpwgOxS2pEeI-mLZyiVEel4W5SShPKUxrfe)
 
-------------
+![For every second delay in mobile page load, conversion can fall by up to 20% - Google](/pwabook/chapter/assets/Chapter_1.png)
 
-**["The State of Online Retail Performance"](https://www.thinkwithgoogle.com/data/mobile-page-speed-conversion-data/)  published by Google, every second of delay causes the loss of a client. Losses can be up to 20% in all possible conversions.**
 
 ------------
 
-image
 
-![](https://lh4.googleusercontent.com/GJN8Bn5_TV7y6HQvMV4v_AVPrvDRO-gdQbkVRnTo3anVNauqUIBuNX3FDPnI7egkP5toIxWPNxi-KzsQuqpseMdXQ9e35Vdamh7jf5BhKPBp7fNURw-tj-Gq3SRVImsNZU46A-oQ)
+**["The State of Online Retail Performance"](https://www.thinkwithgoogle.com/data/mobile-page-speed-conversion-data/) published by Google, every second of delay causes the loss of a client. Losses can be up to 20% in all possible conversions.**
+
+
+------------
+
+
+
+
+![Impact of page load times on conversion rates for desktop and mobile and tablet](/pwabook/chapter/assets/Chapter_1_Impact_of_page_load_times_on_conversion_rates_for_desktop__mobile__and_tablet.png)
 
 source: *The State of Online Retail Performance 2017. Holiday Retrospective.*
 
@@ -88,11 +98,15 @@ The reliability of Progressive Web Apps is based on their independence from an i
 
 A PWA has access to the device's features, which makes it able to enrich the user experience and avoid problems with re-engagement. Moreover, PWAs are conveniently accessible directly from a browser and easy to pin to the user’s home screen. Brands can send their consumers push notifications with special and real-time offers, updates, and reminders of cart abandonments, which increases customers’ loyalty.
 
----
-
-**[Check out available PWA development services](https://divante.com/services/progressive-web-apps)** 
 
 ---
+
+
+ **[Check out available PWA development services](https://divante.com/services/progressive-web-apps)** 🔍
+
+
+---
+
 
 ## Key advantages of Progressive Web Apps
 
@@ -114,9 +128,10 @@ Some business factors are, however, also worth noting. With Progressive Web Apps
 
 This approach is more comfortable than covering all marketing channels with separate online services, although it comes with some design and business challenges.
 
-Jump to the chapter 4 to learn more about [the benefits of PWAs for users, businesses and developers](https://docs.google.com/document/d/11olf2KP7ycavrgXC1PRLdCM1sui-HDs9TRkVwlvUmOQ/edit#heading=h.77zgluaj6tla).
+Jump to the chapter 4 to learn more about [the benefits of PWAs for users, businesses and developers](https://divante.com/pwabook).
 
-## Methods of incorporating a PWA solution?
+
+## Methods of incorporating a PWA solution"?"
 
 A PWA, as a "progressive" standard, doesn't require the implementation of every single feature from the checklist (as mentioned, 75% is enough). The aim is to push developers to make better apps for their users, and so there is no one, universal way to turn a site into a PWA. **Therefore, Progressive Web Apps can be developed independently, from scratch or by using ready-to-use solutions.** Frameworks like [Vue Storefront](http://vuestorefront.io), PWA Studio, or others can significantly reduce the time and costs of PWA implementation.
 
@@ -126,9 +141,12 @@ The level of difficulty increases with the complexity of the project. For eComme
 
 ---
 
-Learn more about the history of the PWA standard, and its evolution in the mobile-first world. 
 
-Go to another chapter and learn more about [the history of the PWA](https://docs.google.com/document/d/1Giqe14cao4G1zrKurNc4Zgn6_Sx1Lmg-dVx7xN0BsNQ/edit#) standard.
+Learn more about the history of the PWA standard, its evolution in the mobile-first world, and [PWA for eCommerce](vuestorefront.io). 
+
+Go to another chapter and learn more about [the history of the PWA](/pwabook/chapter/chapter2.html) standard.
+
 
 ---
-Go back to [The PWA Book ](https://divante.com/pwa-book) main page >
+
+Go back to [The PWA Book ](https://divante.com/pwabook) main page >

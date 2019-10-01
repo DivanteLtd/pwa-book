@@ -1,2 +1,13 @@
-# The PWA Book (intro)
-![book](assets/book1.png)
+# Welcome in The PWA Book
+
+
+**Select the chapter or start [here](/pwabook/chapter/01-Introduction-to-PWA-technology.html).**
+
+
+------
+
+
+The PWA Book is an ongoing project, open to new contributors. It grows along with Progressive Web Apps. If you'd like to become an author of this book [contact us](https://divante.com/contact-us)
+
+
+------
