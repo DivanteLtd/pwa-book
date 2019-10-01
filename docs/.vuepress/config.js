@@ -18,6 +18,7 @@ module.exports = {
         nav: [
          
          { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
+         { text: 'Twitter', link: 'https://twitter.com/divanteltd' },
 
        ]
     }
