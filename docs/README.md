@@ -1,7 +1,7 @@
 # Welcome in The PWA Book
 
 
-**Select the chapter or start [here](/pwabook/chapter/01-Introduction-to-PWA-technology.html).**
+**Select the chapter or start [here](/01-Introduction-to-PWA-technology.html).**
 
 
 ------
