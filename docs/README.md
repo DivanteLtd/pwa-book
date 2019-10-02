@@ -6,7 +6,7 @@
 
 ------
 
-## MEET THE AUTHORS
+## Meet the authors
 
 The PWA Book was written thanks to the knowledge, experience, and engagement of PWA developers, evangelists and futurists of modern technologies.
 
@@ -16,7 +16,8 @@ The PWA Book was written thanks to the knowledge, experience, and engagement of 
 - Aleksandra Kwiecień - writer at Divante | [Blog](https://divante.com/blog/author/kwiecien/) | [Linkedin](https://www.linkedin.com/in/aleksandra-kwiecien/)
 
 ------
-## BECOME THE AUTHOR
+
+## Become the author
 
 
 The PWA Book is an ongoing project, open to new contributors. It grows along with Progressive Web Apps. If you'd like to become an author of this book [contact us](mailto:akwiecien@divante.com)
