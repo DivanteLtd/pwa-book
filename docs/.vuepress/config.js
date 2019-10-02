@@ -21,7 +21,7 @@ module.exports = {
         nav: [
          { text: 'FB', link: 'https://www.facebook.com/Divantecom/'},
          { text: 'TT', link: 'https://twitter.com/divanteltd'},
-         { text: 'LI', link: 'https://www.linkedin.com/company/600853/admin/'},
+         { text: 'LI', link: 'https://www.linkedin.com/company/divante/'},
 
        ]
     }
