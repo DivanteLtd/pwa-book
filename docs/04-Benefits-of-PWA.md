@@ -1,4 +1,4 @@
-# Chapter 4: Benefits of Progressive Web Apps
+# Chapter 4: BENEFITS OF PROGRESSIVE WEB APPS
 
 **They are fast, engaging, and reliable; but what exactly does it mean for users, businesses, and developers? What kind of benefits do they deliver to each of these groups, and which gives them the title of "the solution most suitable for the mobile-first era?" We clear that up below.**
 

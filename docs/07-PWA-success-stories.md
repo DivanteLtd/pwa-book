@@ -14,4 +14,4 @@
 ------
 
  
-Go back to [The PWA Book](https://divante.com/pwabook) main page 
+Go back to [The PWA Book](https://divante.com/pwabook) main page >

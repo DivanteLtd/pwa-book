@@ -9,7 +9,7 @@
 - What is the mobile-first approach?   
 - Mobile as a must, as we live in a mobile world
 - Social media in the mobile-first world
-- What is crucial in the mobile-first world
+- What is crucial in the mobile-first world?
   - Interactions
   - Engagement
   - Easiness
@@ -18,7 +18,7 @@
 
   
 
-## What is the mobile-first approach"?"
+## What is the mobile-first approach
 
 Mobile data traffic will grow at a CAGR of 46 percent from 2017 to 2022, according to [the Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white-paper-c11-738429.html). Since, this trend didn't start yesterday, the [mobile-first approach](https://divante.com/blog/adding-mobile-first-solutions-ecommerce/) to design online services should be a no-brainer. And yet, it is not. Even though [Eric Schmidt in 2010 put forward that designers should follow the “mobile-first” rule](https://www.telegraph.co.uk/technology/google/7256103/Google-now-a-mobile-first-company.html), many web owners still create websites for desktop and then force them to run on the devices we really love to use.
 
