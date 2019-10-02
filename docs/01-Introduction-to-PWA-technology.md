@@ -14,7 +14,7 @@
 **Table of content**
 
 - What are Progressive Web Apps?
-- How to understand the term PWA
+- How to understand the term PWA?
 - Characteristics of Progressive Web Apps
   - PWAs are fast
   - PWAs are reliable
