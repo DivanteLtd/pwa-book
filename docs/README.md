@@ -4,7 +4,7 @@
 ## **Select the chapter or start [here](/01-Introduction-to-PWA-technology.html).**
 
 
-------
+
 
 ## Meet the authors
 
