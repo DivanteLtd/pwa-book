@@ -9,8 +9,6 @@
 
 ------
  
-<p style="font-size:120px; color:pink">Napis testowy</p>
- 
 **Table of content**
 
 - What are Progressive Web Apps?
