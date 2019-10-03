@@ -9,8 +9,6 @@
 
 ------
  
- 
- 
 **Table of content**
 
 - What are Progressive Web Apps?
