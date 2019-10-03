@@ -2,6 +2,7 @@ module.exports = {
     title: 'The PWA Book',
     description: 'Inside The PWA Book designers and developers share their knowledge and experience of this modern technology to get you ready for building a fast, reliable and engaging user experience.',
     base: '/pwabook/chapter/',
+    plugins: [['vuepress-plugin-google-tag-manager', {'gtm': '5RZ9N2H'}]],
     themeConfig: {
         bookTitle: 'The PWA Book by Divante',
         logo: '/assets/logo_D_cover.png',
