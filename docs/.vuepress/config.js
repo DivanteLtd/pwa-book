@@ -9,6 +9,8 @@ module.exports = {
           ['link', { rel: 'icon', href: '/assets/favicon.png' }],
         ],
         
+      
+        
         sidebar: [
 			['/01-Introduction-to-PWA-technology','1: Introduction to Progressive Web Apps'],	
 			['/02-The-history-of-PWAs','2: The history of PWAs'],
