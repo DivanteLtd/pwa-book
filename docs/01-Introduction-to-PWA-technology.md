@@ -13,6 +13,7 @@
 
 - What are Progressive Web Apps?
 - How to understand the term PWA?
+- Native vs. Cross-Platform Apps vs. PWA
 - Characteristics of Progressive Web Apps
   - PWAs are fast
   - PWAs are reliable
@@ -58,7 +59,22 @@ You can [check your eCommerce site with the Lighthouse](https://divante.com/blog
 
 ------------
 
-The general idea is that a Progressive Web App meets the expectations of mobile users who demand the app be easy to use no matter what the external circumstances, but, to qualify as a PWA, the application must meet most (75% compliance is required) of the points in the [](https://developers.google.com/web/progressive-web-apps/checklist) [PWA checklist](https://developers.google.com/web/progressive-web-apps/checklist).[](https://developers.google.com/web/progressive-web-apps/checklist)
+The general idea is that a Progressive Web App meets the expectations of mobile users who demand the app be easy to use no matter what the external circumstances, but, to qualify as a PWA, the application must meet most (75% compliance is required) of the points in the [](https://developers.google.com/web/progressive-web-apps/checklist) [PWA checklist](https://developers.google.com/web/progressive-web-apps/checklist).
+
+## Native vs. Cross-Platform Apps vs. PWA
+
+Neither PWAs nor native apps are the only way to create a smooth cross-platform user experience. With tools like React Native, Native Scripts, Flutter or Ionic, there is a third way: hybrid apps.
+
+These modern frameworks allow building apps that provide almost-native performance but without the necessity of writing three different code bases. Developers write the application once, and it is available on three operating systems. For native apps, there is a need to use Objective-C (iOS), Java (Android) and - in the old days - C# (Windows Phone). Therefore, the cross-platform approach is less time-consuming, and the costs of writing a hybrid are incomparably lower. 
+
+A well-written and optimized cross-platform app should not differ from a native application but in more complex projects, like games or expanded programs, it may be visibly slower or even suffer from serious lag. It is also difficult to support Android-specific or iPhone-specific functionalities with hybrids.
+
+Hybrid apps can be a reasonable choice, especially when the project is relatively modest and the budget limited. In the other case, a native app will be a better option. They are written in languages specific to Android (Java) and iOS (Swift or Objective-C), which guarantee the best possible performance and compatibility with the smartphone's functionalities. Unfortunately, it also means that development takes more time and money. Not to mention that an app is a lot harder to distribute and to update. 
+
+**PWAs are the latest trend in the IT world and there is a good chance that they will take the place of native and hybrid apps. They are incredibly fast, in contrast to hybrid apps,  and they use a single code base between platforms, unlike native apps.**
+
+Another notable advantage of Progressive Web Apps is the significantly lower cost of development and the shorter time-to-market. But the list of [PWA benefits](/04-Benefits-of-PWA.html) doesn't end there.
+
 
 ## Characteristics of Progressive Web Apps
 
