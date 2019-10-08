@@ -52,9 +52,9 @@ def deploy():
     print(colors.green("Start deploying in ") + colors.red(env.name))
     notify("*" + PROJECT_NAME + "* @ `" + env.name + "` :: Deployment Started")
 
-    #copy_chapters()
+    copy_chapters()
     
-    run("ls -la")
+    #run("ls -la")
 
     notify("*" + PROJECT_NAME + "* @ `" + env.name + "` :: Deployment Completed")
 
