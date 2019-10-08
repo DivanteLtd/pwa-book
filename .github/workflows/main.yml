@@ -1,0 +1,57 @@
+name: Main Workflow
+
+on:
+  push:
+    branches:
+      - master
+      - develop
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Use Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: 10
+
+    - name: NPM install
+      run: npm install --progress=false --no-shrinkwrap
+        
+    - name: Lint MD
+      run: npm run lint:md
+    
+    - name: Build
+      run: npm run docs:build
+    
+    - name: Use Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+
+    - name: Install dependencies
+      run: |
+        cd scripts/deploy
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Setup SSH Key
+      uses: webfactory/ssh-agent@v0.1.1
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Deploy
+      env:
+        REF: ${{ github.ref }}
+        TEST_HOST: ${{ secrets.TEST_HOST }}
+        TEST_PORT: ${{ secrets.TEST_PORT }}
+        PROD_HOST: ${{ secrets.PROD_HOST }}
+        PROD_PORT: ${{ secrets.PROD_PORT }}
+        SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+      run: |
+        ENVIRONMENT=$(if [ $REF = "refs/heads/master" ]; then echo "prod"; else echo "test"; fi)
+        cd scripts/deploy
+        fab ${ENVIRONMENT} deploy
