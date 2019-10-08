@@ -5,20 +5,20 @@ from fabric.operations import _prefix_commands, _prefix_env_vars, require
 import os
 import slack
 
-PROJECT_NAME = "Divante.com PWA eBook"
+PROJECT_NAME = "Divante.com PWA Book"
 
 STAGES = {
     "test": {
         "name": "Test",
-        "hosts": ["test-lin-6.divante.pl"],
-        "port": "60022",
+        "hosts": [os.environ['TEST_HOST']],
+        "port": os.environ['TEST_PORT'],
         "user": "divanteco",
         "dir": "/home/www/divanteco/www/pwabook"
     },
     "prod": {
-        "name": "Test",
-        "hosts": ["divante-web.divante.pl"],
-        "port": "60022",
+        "name": "Production",
+        "hosts": [os.environ['PROD_HOST']],
+        "port": os.environ['PROD_PORT'],
         "user": "divanteco",
         "dir": "/home/www/divanteco/www/pwabook"
     }
@@ -52,7 +52,8 @@ def deploy():
     print(colors.green("Start deploying in ") + colors.red(env.name))
     notify("*" + PROJECT_NAME + "* @ `" + env.name + "` :: Deployment Started")
 
-    copy_chapters()
+    #copy_chapters()
+    run("ls -la")
 
     notify("*" + PROJECT_NAME + "* @ `" + env.name + "` :: Deployment Completed")
 

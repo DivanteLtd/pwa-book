@@ -1,19 +1,15 @@
-# Divante.com PWA eBook
+# Divante.com PWA Book
 
-[![pipeline status](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/badges/develop/pipeline.svg)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook)
-[![coverage report](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook/badges/develop/coverage.svg)](https://gitlab.divante.pl/snippety-zaglady/projects/divante.com/pwa-ebook)
-
-> Divante.com PWA eBook Application
+> Divante.com PWA Book Application
 
 **Table of Contents**
-- [Divante.com PWA eBook](#divante.com-pwa-ebook)
+- [Divante.com PWA Book](#divante.com-pwa-book)
 	- [Installing/Getting started](#installinggetting-started)
 	- [Deploy](#deploy)
 	- [About Authors](#about-authors)
 
 ## Installing/Getting started
 ```bash 
-git clone ssh://git@gitlab.divante.pl:60022/snippety-zaglady/projects/divante.com/pwa-ebook.git && \
 npm install
 ```
 
@@ -38,9 +34,9 @@ yarn docs:build
 ## Deploy
 ```bash
 cd scripts/deploy && \
-python3 -m venv env && \
-source ./env/bin/activate && \
-pip3 install -r requirements.txt
+    python3 -m venv env && \
+    source ./env/bin/activate && \
+    pip3 install -r requirements.txt
 ```
 
 ```bash
@@ -51,13 +47,9 @@ or
 fab prod deploy
 ```
 
-Arguments:
-```bash
-fab dev deploy:branch=develop
-```
-
 ## About Authors
-![Divante-logo](http://divante.co/logo-HG.png "Divante")
+![Divante-logo](http://divante.com/logo-HG.png "Divante")
+
 We are a Software House from Europe, existing from 2008 and employing about 150 people. 
 Our core competencies are built around Magento, Pimcore and bespoke software projects 
 (we love Symfony3, Node.js, Angular, React, Vue.js). We specialize in sophisticated integration projects trying to 
@@ -70,4 +62,4 @@ program and [Vue.js Storefront](https://github.com/DivanteLtd/vue-storefront "Vu
 We are part of the OEX Group which is listed on the Warsaw Stock Exchange. Our annual revenue has been growing at a
 minimum of about 30% year on year.
 
-Visit our website [Divante.co](https://divante.co/ "Divante.co") for more information.
+Visit our website [Divante.com](https://divante.com/ "Divante.com") for more information.
