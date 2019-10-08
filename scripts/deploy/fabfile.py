@@ -53,6 +53,7 @@ def deploy():
     notify("*" + PROJECT_NAME + "* @ `" + env.name + "` :: Deployment Started")
 
     #copy_chapters()
+    
     run("ls -la")
 
     notify("*" + PROJECT_NAME + "* @ `" + env.name + "` :: Deployment Completed")
