@@ -1,4 +1,4 @@
-# Divante.com PWA Book
+# The PWA Book | Divante.com
 
 > Divante.com PWA Book Application
 
@@ -48,18 +48,15 @@ fab prod deploy
 ```
 
 ## About Authors
+
+This module has been created by Divante eCommerce Software House.
+
 ![Divante-logo](http://divante.com/logo-HG.png "Divante")
 
-We are a Software House from Europe, existing from 2008 and employing about 150 people. 
-Our core competencies are built around Magento, Pimcore and bespoke software projects 
-(we love Symfony3, Node.js, Angular, React, Vue.js). We specialize in sophisticated integration projects trying to 
-connect hardcore IT with good product design and UX.
+Divante is an expert in providing top-notch eCommerce solutions and products for both B2B and B2C segments. Our core competencies are built around Magento, Pimcore and bespoke software projects (we love Symfony3, Node.js, Angular, React, Vue.js). We specialize in sophisticated integration projects trying to connect hardcore IT with good product design and UX.
 
-We work for Clients like INTERSPORT, ING, Odlo, Onderdelenwinkel and CDP, the company that produced The Witcher game. 
-We develop two projects: [Open Loyalty](http://www.openloyalty.io/ "Open Loyalty") - an open source loyalty 
-program and [Vue.js Storefront](https://github.com/DivanteLtd/vue-storefront "Vue.js Storefront").
+We work with industry leaders, like T-Mobile, Continental, and 3M, who perceive technology as their key component to success. In Divante we trust in cooperation, that's why we contribute to open source products and create our own products like [Open Loyalty](http://www.openloyalty.io/ "Open Loyalty") and [VueStorefront](https://github.com/DivanteLtd/vue-storefront "Vue Storefront").
 
-We are part of the OEX Group which is listed on the Warsaw Stock Exchange. Our annual revenue has been growing at a
-minimum of about 30% year on year.
+Divante is part of the OEX Group which is listed on the Warsaw Stock Exchange. Our annual revenue has been growing at a minimum of about 30% year on year.
 
-Visit our website [Divante.com](https://divante.com/ "Divante.com") for more information.
+For more information, please visit [Divante.co](https://divante.co/ "Divante.co").
