@@ -63,4 +63,4 @@ We work with industry leaders, like T-Mobile, Continental, and 3M, who perceive 
 
 Divante is part of the OEX Group which is listed on the Warsaw Stock Exchange. Our annual revenue has been growing at a minimum of about 30% year on year.
 
-For more information, please visit [Divante.co](https://divante.com/ "Divante.com").
+For more information, please visit [Divante.com](https://divante.com/ "Divante.com").
