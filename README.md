@@ -1,10 +1,10 @@
 # The PWA Book | Divante.com
 
-> OPEN GUIDE TO PROGRESSIVE WEB APPS
+OPEN GUIDE TO PROGRESSIVE WEB APPS
 
-> Progressive Web Apps are changing web and app design as we know it. Inside The PWA Book designers and developers share their knowledge and experience of this modern technology to get you ready for building a fast, reliable and engaging user experience. 
+Progressive Web Apps are changing web and app design as we know it. Inside The PWA Book designers and developers share their knowledge and experience of this modern technology to get you ready for building a fast, reliable and engaging user experience. 
 
-> Learn more about it at [the official webpage of The PWA Book](https://divante.com/pwabook)
+Learn more about it at [the official webpage of The PWA Book](https://divante.com/pwabook)
 
 **Table of Contents**
 - [The PWA Book]
