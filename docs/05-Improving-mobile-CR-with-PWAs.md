@@ -11,14 +11,14 @@
 **Table of content**
 
 - How can a PWA impact conversion rate?
-  -  by avoiding app stores 
-  -  by improving page speed 
-  -  by using voice search 
+  - by avoiding app stores 
+  - by improving page speed 
+  - by using voice search 
   - by making the UX consistent 
-  -  by using phone features 
-  -  by optimizing product pages and listings for mobile 
+  - by using phone features 
+  - by optimizing product pages and listings for mobile 
   - by re-engagement strategies 
-  -  by localizing the content 
+  - by localizing the content 
   - by adding innovative payment methods 
   - by being responsive to users 
   - by being accessible in offline mode
