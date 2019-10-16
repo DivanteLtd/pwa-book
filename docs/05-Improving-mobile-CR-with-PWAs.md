@@ -47,7 +47,7 @@ Of course, mobile users might not yet be in the decision stage. They are often l
 
   
 
-## How can a PWA impact conversion rate?
+## How can a PWA impact conversion rate
 
 ### by avoiding app stores
 
