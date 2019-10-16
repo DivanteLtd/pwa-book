@@ -57,8 +57,6 @@ Bypassing the app stores means saving users’ valuable time and increasing the 
 
 This is crucial, especially since, according to the Page Speed Report, nearly 70% of consumers admit that pagespeed influences their likelihood of buying. Moreover, 53% of users leave if a mobile site takes more than three seconds to load.
 
-  
-<image>[! Comparison of page speed: PWA - 2 seconds vs webpage - 9 seconds]
 ### by using voice search
 
 PWAs, as they can be discovered via the internet browser, can also take advantage of the growing popularity of [voice search](https://divante.com/blog/tag/voice/) to shorten the path to the user. Smart speakers like Alexa or Google Home seem to be great for kicking off an order placement that can be finalized in a mobile app or via the browser. They allow developing long-tail phrases in search campaigns. Questions beginning with "who", "what", "how", "when", "where" will create an ocean of new possibilities, especially for local businesses.
@@ -113,4 +111,4 @@ With PWA offline mode, it is possible to continue browsing or shopping without a
 
 ---
  
- Go back to [The PWA Book ](https://divante.com/pwabook) main page >
+ Go back to [The PWA Book](https://divante.com/pwabook) main page >
