@@ -21,18 +21,10 @@ npm install
 ``` bash
 npm run docs:dev
 ```
-or
-``` bash
-yarn docs:dev
-```
 
 ### Compiles and minifies for production
 ```bash
 npm run docs:build
-```
-or
-```bash
-yarn docs:build
 ```
 
 ## Deploy
