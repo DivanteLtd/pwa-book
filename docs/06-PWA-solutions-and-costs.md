@@ -30,23 +30,17 @@ The rise of the mobile channel was anticipated almost immediately after the spec
 
 With that announcement, Google made it clear that the title of “primary screen for marketers” had just gone to mobile.
 
----
+
  
-💡 **More Google searches take place on mobile devices than on computers in 10 countries, including the US and Japan.** This presents a tremendous opportunity for marketers to reach people throughout all the new touchpoints of a consumer’s path to purchase.
-    
+>💡 **More Google searches take place on mobile devices than on computers in 10 countries, including the US and Japan.** This presents a tremendous opportunity for marketers to reach people throughout all the new touchpoints of a consumer’s path to purchase. Read More >> [Adwords Google Blog](https://adwords.googleblog.com/2015/05/building-for-next-moment.html).
 
-Read More >> [Adwords Google Blog](https://adwords.googleblog.com/2015/05/building-for-next-moment.html).
 
----
 
 Google didn't waste its time. In the same year, it introduced two concepts that were supposed to cover the demand for mobile-friendly technology in web development. The first one, the open-source initiative called Accelerated Mobile Pages ([AMP](https://divante.com/blog/tag/amp/)), aims to improve the performance of webpages by excluding any author-written JavaScript.
 
----
-**Instead of using JavaScript, interactive page features are handled in custom AMP elements.** The custom AMP elements may have JavaScript under the hood, but they’re carefully designed to make sure they don’t cause performance degradation.
-  
-Read More >> [AMP.dev](https://amp.dev/about/how-amp-works/)
 
----
+>**Instead of using JavaScript, interactive page features are handled in custom AMP elements.** The custom AMP elements may have JavaScript under the hood, but they’re carefully designed to make sure they don’t cause performance degradation. Read More >> [AMP.dev](https://amp.dev/about/how-amp-works/)
+
 
 Progressive Web Apps also appeared in 2015. The goal was the same although it was reached by different means. It is focused primarily on JavaScript and combines the advantages of a mobile application and a website.
 
@@ -132,7 +126,7 @@ A ready-to-use storefront solution made in France. This solution offers a micro-
 
 This solution was developed by the Scandiweb agency in 2018 and focuses on providing a PWA for stores based on Magento.
 
-Curious how these PWA frameworks and solutions work in practice? Check out TOP 30 eCommerce PWAs benchmark study.
+Curious how these PWA frameworks and solutions work in practice? Check out [TOP 30 eCommerce PWAs benchmark study](https://go.divante.co/top-30-progressive-web-apps/).
 
 ---
 
