@@ -29,7 +29,7 @@ Progressive Web Apps became a hot topic in the media recently. However, media co
 
 It is evident that not every user is keen to install or use a native app. He or she may, however, still drop by on the web site from time to time, and so, providing the best possible user experience on the web should be a goal in and of itself. A PWA, since it combines the reach of the web and the user experience of a native app, allows you to do just that.
 
-## The core features of a PWA:
+## The core features of a PWA
 
 -   ### capability of offline work
 
@@ -105,7 +105,7 @@ With a PWA, on the other hand, everything happens instantly. The updates, deploy
 
 Around 90% of a PWA is purely JavaScript, but the distribution model is web, for which organic search is vital. PWAs are optimizable according to Google SEO Guides.
 
-Of course, in terms of optimization, it is recommended to take into account Google's recommendations for JavaScript, which may be tricky. The SEO community's opinion on how Google treats JavaScript-based websites is ambiguous, and the positioning process may face some challenges. Developers have to fix any errors that can stop Googlebot from crawling the page (with HTML, the browser can handle it by itself, but the code written in Javascript must be cleaned manually). They also need to inform Googlebots about internal links by using a non-standard piece of HTML code <a href=””>, and correctly optimize images for indexing.
+Of course, in terms of optimization, it is recommended to take into account Google's recommendations for JavaScript, which may be tricky. The SEO community's opinion on how Google treats JavaScript-based websites is ambiguous, and the positioning process may face some challenges. Developers have to fix any errors that can stop Googlebot from crawling the page (with HTML, the browser can handle it by itself, but the code written in Javascript must be cleaned manually). They also need to inform Googlebots about internal links by using a non-standard piece of HTML code 'a href=””', and correctly optimize images for indexing.
 
 Nonetheless, PWA distribution, with its web-like linkability, is way more comfortable, faster, and more accessible than going through the app stores. They are not attached to any particular platform, operating system, or app store. If the user fancies it, he can save it with one tap on his home screen directly from the browser, and share it via URL.
 
