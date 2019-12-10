@@ -10,16 +10,16 @@ module.exports = {
         bookTitle: 'The PWA Book by Divante',
         logo: '/assets/logo_D_cover.png',
         sidebar: [
-          ['/01-Introduction-to-PWA-technology','1. Introduction to Progressive Web Apps'],
-          ['/02-The-history-of-PWAs','2. The history of PWAs'],
-          ['/03-PWAs-in-the-mobile-first-world','3. PWA in the mobile-first world'],
-          ['/04-Benefits-of-PWA','4. Benefits of Progressive Web Apps'],
-          ['/05-Improving-mobile-CR-with-PWAs','5. Low mobile conversion rates solved with PWA technology'],
-          ['/06-PWA-solutions-and-costs','6. Costs and solutions of PWA in eCommerce'],
-          ['/07-PWA-success-stories','7. Companies that implemented PWA and won'],
-	  ['/08-features-of-PWA','8. Features of Progressive Web Apps'],
-          ['/09-SEO-in-PWAs','9. Comprehensive information on SEO in PWAs'],
-	  ['/10-Technical-aspects-of-PWAs','10. Technical aspects of PWAs NEW']
+          ['/01-introduction-to-pwa-technology','1. Introduction to Progressive Web Apps'],
+          ['/02-the-history-of-pwas','2. The history of PWAs'],
+          ['/03-pwas-in-the-mobile-first-world','3. PWA in the mobile-first world'],
+          ['/04-benefits-of-pwa','4. Benefits of Progressive Web Apps'],
+          ['/05-improving-mobile-cr-with-pwas','5. Low mobile conversion rates solved with PWA technology'],
+          ['/06-pwa-solutions-and-costs','6. Costs and solutions of PWA in eCommerce'],
+          ['/07-pwa-success-stories','7. Companies that implemented PWA and won'],
+	  ['/08-features-of-pwa','8. Features of Progressive Web Apps'],
+          ['/09-seo-in-pwas','9. Comprehensive information on SEO in PWAs'],
+	  ['/10-technical-aspects-of-pwas','10. Technical aspects of PWAs NEW']
         ],
         nav: [
          { text: 'FB', link: 'https://www.facebook.com/Divantecom/'},
