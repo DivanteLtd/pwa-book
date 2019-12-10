@@ -82,7 +82,7 @@ PWAs, in spite of their JS-nature, meet some of these restrictions by default. T
 -----
 
 
-## How to make a PWA SEO-friendly?
+## How to make a PWA SEO-friendly
 
 ### Double-check the JS code
    
