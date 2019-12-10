@@ -1,4 +1,5 @@
-# Chapter 3: PROGRESSIVE WEB APPS IN THE MOBILE-FIRST WORLD
+﻿# Chapter 3: Progressive Web Apps in the mobile-first world
+
 
 
 **PWAs seem to be the right choice for companies, especially since being "mobile-friendly" is not just a manifestation of goodwill but a must as it is required by Google. The Mountain View giant made this clear by updating its search algorithm, but even without it, five billion smartphone users can't be ignored by marketers.**

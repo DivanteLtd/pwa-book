@@ -1,5 +1,5 @@
-# Chapter 1: INTRODUCTION TO PROGRESSIVE WEB APPS
- 
+﻿# Chapter 1: Introduction to Progressive Web Apps 
+
 
 **Progressive Web Apps, introduced by Google, eagerly approved by Microsoft and reluctantly adopted by Apple, are gaining massive popularity among global leaders of online technologies. Companies such as Pinterest, Aliexpress, Trivago, OLX and Forbes, which have already field-tested the abilities of PWA technology to boost user engagement, proved that it is the best answer to the challenges of the mobile world.**
 

@@ -1,4 +1,5 @@
-# Chapter 5: LOW MOBILE CONVERSION PROBLEMS WITH PWA TECHNOLOGY 
+﻿# Chapter 5: Low mobile coversion problems solved with PWA technology
+
 
 **Time spent on mobile devices is growing by leaps and bounds, but for businesses, it is crucial to get a closer look at how we use them. Mobile users' behavior and demands change constantly, and there is always a need for optimizing and improving their experiences. Progressive Web Apps, with their mobile-friendly nature, can be a way to do that.**
 
