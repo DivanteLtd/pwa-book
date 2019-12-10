@@ -18,8 +18,8 @@ module.exports = {
           ['/06-PWA-solutions-and-costs','6. Costs and solutions of PWA in eCommerce'],
           ['/07-PWA-success-stories','7. Companies that implemented PWA and won'],
 	  ['/08-features-of-PWA','8. Features of Progressive Web Apps'],
-          ['/09-SEO-in-PWAs','Chapter 9. Comprehensive information on SEO in PWAs'],
-	  ['/10-Technical-aspects-of-PWAs','Chapter 10. Technical aspects of PWAs NEW']
+          ['/09-SEO-in-PWAs','9. Comprehensive information on SEO in PWAs'],
+	  ['/10-Technical-aspects-of-PWAs','10. Technical aspects of PWAs NEW']
         ],
         nav: [
          { text: 'FB', link: 'https://www.facebook.com/Divantecom/'},
