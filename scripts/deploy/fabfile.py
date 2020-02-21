@@ -73,4 +73,4 @@ def copy_chapters():
 
 def notify(message):
     """ Notify slack """
-    SLACK.chat_postMessage(channel='#_snippety-apollo-ci',text=message)
+    #SLACK.chat_postMessage(channel='#_snippety-apollo-ci',text=message)
