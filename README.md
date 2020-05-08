@@ -47,13 +47,14 @@ fab prod deploy
 
 This publication has been created by Divante.
 
-![Divante-logo](https://raw.githubusercontent.com/DivanteLtd/pwa-book/develop/docs/.vuepress/public/assets/logo_Divante.png "Divante")
-
 Divante is a global eCommerce solutions, experimentation, and thought leader. Our team of 
 250+ experts empowers eCommerce for both the B2B and B2C segments, working with companies like Bosch, SAP, and Tally Weijl. We create rapid, high-functioning MVPs and integrate technologies that will be the trends of tomorrow. 
 
 As a digital pioneer and strategic partner, we bring developers, product designers, analysts, project managers, and testers together to empower eCommerce from every angle. That means building in enterprise open-source software ecosystems and customized software solutions, as well as offering innovative solutions and support for systems like ERP, PIM, and CRM.
 
-At Divante, we trust in cooperation and actively contribute to the open-source community, as well as creating our own products like[Open Loyalty](http://www.openloyalty.io/ "Open Loyalty") and [Vue Storefront](https://vuestorefront.io "Vue Storefront").
+At Divante, we trust in cooperation and actively contribute to the open-source community, as well as creating our own products like [Open Loyalty](http://www.openloyalty.io/ "Open Loyalty") and [Vue Storefront](https://vuestorefront.io "Vue Storefront").
 
 For more information, please visit [Divante.com](https://divante.com/ "Divante.com").
+
+![Divante-logo](https://raw.githubusercontent.com/DivanteLtd/pwa-book/develop/docs/.vuepress/public/assets/logo_Divante.png "Divante")
+
