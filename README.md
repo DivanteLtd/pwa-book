@@ -45,7 +45,7 @@ fab prod deploy
 
 ## About Authors
 
-This publication has been created by Divante.
+![Divante-logo](https://raw.githubusercontent.com/DivanteLtd/pwa-book/develop/docs/.vuepress/public/assets/logo_Divante.png "Divante")
 
 Divante is a global eCommerce solutions, experimentation, and thought leader. Our team of 
 250+ experts empowers eCommerce for both the B2B and B2C segments, working with companies like Bosch, SAP, and Tally Weijl. We create rapid, high-functioning MVPs and integrate technologies that will be the trends of tomorrow. 
@@ -56,5 +56,4 @@ At Divante, we trust in cooperation and actively contribute to the open-source c
 
 For more information, please visit [Divante.com](https://divante.com/ "Divante.com").
 
-![Divante-logo](https://raw.githubusercontent.com/DivanteLtd/pwa-book/develop/docs/.vuepress/public/assets/logo_Divante.png "Divante")
 
