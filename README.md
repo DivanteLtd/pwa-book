@@ -45,14 +45,15 @@ fab prod deploy
 
 ## About Authors
 
-This publication has been created by Divante eCommerce Software House.
+This publication has been created by Divante.
 
-![Divante-logo](http://divante.com/logo-HG.png "Divante")
+![Divante-logo](/pwabook/chapter/assets/logo_Divante.png "Divante")
 
-Divante is an expert in providing top-notch eCommerce solutions and products for both B2B and B2C segments. Our core competencies are built around Magento, Pimcore and bespoke software projects (we love Symfony3, Node.js, Angular, React, Vue.js). We specialize in sophisticated integration projects trying to connect hardcore IT with good product design and UX.
+Divante is a global eCommerce solutions, experimentation, and thought leader. Our team of 
+250+ experts empowers eCommerce for both the B2B and B2C segments, working with companies like Bosch, SAP, and Tally Weijl. We create rapid, high-functioning MVPs and integrate technologies that will be the trends of tomorrow. 
 
-We work with industry leaders, like T-Mobile, Continental, and 3M, who perceive technology as their key component to success. In Divante we trust in cooperation, that's why we contribute to open source products and create our own products like [Open Loyalty](http://www.openloyalty.io/ "Open Loyalty") and [Vue Storefront](https://vuestorefront.io "Vue Storefront").
+As a digital pioneer and strategic partner, we bring developers, product designers, analysts, project managers, and testers together to empower eCommerce from every angle. That means building in enterprise open-source software ecosystems and customized software solutions, as well as offering innovative solutions and support for systems like ERP, PIM, and CRM.
 
-Divante is part of the OEX Group which is listed on the Warsaw Stock Exchange. Our annual revenue has been growing at a minimum of about 30% year on year.
+At Divante, we trust in cooperation and actively contribute to the open-source community, as well as creating our own products like[Open Loyalty](http://www.openloyalty.io/ "Open Loyalty") and [Vue Storefront](https://vuestorefront.io "Vue Storefront").
 
 For more information, please visit [Divante.com](https://divante.com/ "Divante.com").
