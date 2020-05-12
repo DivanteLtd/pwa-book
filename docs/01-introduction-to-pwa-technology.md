@@ -153,6 +153,7 @@ The first approach relies heavily on the work of in-house front-end developers. 
 
 The level of difficulty increases with the complexity of the project. For eCommerce brands with multiple sites or marketplaces, the process of converting sites into PWAs may cause severe challenges. Moreover, the eventual downtime cost may be too high to risk. To avoid any unpleasant surprises, eCommerce companies often cautiously decide to reach for [PWA solutions that are already proved in the market](https://divante.com/blog/pwa-solutions-for-ecommerce-comparison/). This approach can be 75% cheaper than building a PWA independently, ensures a time to market as low as 2-3 months, and generate a positive ROI after 4-9 months. It requires some initial investment and collaboration with a partner that guarantees a seamless implementation. But in general, it is a far cry safer and more profitable than building a PWA from scratch.
 
+
 ---
 
 
@@ -163,4 +164,4 @@ Go to another chapter and learn more about [the history of the PWA](/02-The-hist
 
 ---
 
-Go back to [The PWA Book ](https://divante.com/pwabook) main page >
+Go back to [The PWA Book ](https://divante.com/pwabook) main page →
