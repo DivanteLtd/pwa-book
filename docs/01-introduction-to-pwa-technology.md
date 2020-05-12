@@ -164,4 +164,4 @@ Go to another chapter and learn more about [the history of the PWA](/02-The-hist
 
 ---
 
-Go back to [The PWA Book ](https://divante.com/pwabook) main page →
+Go back to [The PWA Book ](https://divante.com/pwabook) main page >
