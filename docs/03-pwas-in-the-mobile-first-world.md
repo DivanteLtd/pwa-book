@@ -1,4 +1,4 @@
-﻿# Chapter 3: Progressive Web Apps in the mobile-first world
+﻿# Progressive Web Apps in the mobile-first world
 
 
 

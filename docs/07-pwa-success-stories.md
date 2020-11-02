@@ -1,4 +1,4 @@
-﻿# Chapter 7: Companies that implemented a PWA and won
+﻿# Companies that implemented a PWA and won
 
 **In smartphone-dominated markets, creating a superior user experience is no longer a nice-to-have feature. Businesses of all kinds are racing to adopt the latest mobile-friendly technologies, including Progressive Web Apps. The early-adopters that made the shift to PWAs before the laggers have gained a massive business advantage.**
 

@@ -1,4 +1,4 @@
-﻿# Chapter 8: Features of Progressive Web Apps
+﻿# Features of Progressive Web Apps
 
 **PWA, as a relatively new and — in the last few years — incredibly trending approach to the mobile channel, is often compared one-to-one with native applications. However, to make a fully informed business decision, it is vital to establish the precise features of a PWA and point out the differences and similarities between them and native apps. Let's dive into the details!**
 

@@ -1,4 +1,4 @@
-﻿# Chapter 10: Technical aspects of PWAs
+﻿# Technical aspects of PWAs
  
 
 **The business advantages of Progressive Web Apps are easy to see since PWAs are an advanced website able to provide all the benefits of native apps. A technical perspective, however, requires a little bit more precision in terms of describing this, still unusual, fusion.**

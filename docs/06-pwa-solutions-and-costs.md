@@ -1,4 +1,4 @@
-﻿# Chapter 6: Costs and solutions of PWA in eCommerce 
+﻿# Costs and solutions of PWA in eCommerce 
 
 **Creating Progressive Web Apps doesn't require following a specific implementation path. The main goal of that approach is to push developers to think of users, not technology. But since PWA technology gained popularity, solutions that make it easier to turn a site into a "progressive" one, began to appear. Today, there is a variety of frameworks available, but choosing the right one can be difficult.**
 
