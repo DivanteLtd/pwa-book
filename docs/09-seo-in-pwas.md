@@ -1,4 +1,4 @@
-﻿# Chapter 9: Comprehensive information on SEO in PWAs
+﻿# Comprehensive information on SEO in PWAs
  
 
 **Google's desire to make Google Search mobile-friendly has been loud and clear for years. In the beginning, it took the form of a delicate suggestion, but with the introduction of the mobile-first index, being mobile-friendly has become an obligation for website owners. That was the moment when PWA technology quickly started to gain fame as an easy-to-use answer to this problem. Indeed, it provides the best possible UX and has Google's support, but what about SEO-controversial JavaScript, the core of PWA?**
